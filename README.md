@@ -4,7 +4,7 @@ Script-free playground for creating games
 ![Gogol screenshot](https://lut.im/gyBIMcB39S/FLBOPKADIi2s62E8.png)
 
 ## Goal
-Gogol is an experimental project of mine which I develop in my free time as a hobby. It shouldn't not be taken as a game maker but rather than a playground to express creativity and for fun.
+Gogol is an experimental project of mine which I develop in my free time as a hobby. It should not be taken as a game maker but rather than a playground to express creativity and for fun.
 
 The goals are:
 * Drang 'n drop
