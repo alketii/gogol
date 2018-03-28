@@ -1,0 +1,30 @@
+{
+    "speed":{
+        "type":"number",
+        "title":"Speed",
+        "min":10,
+        "max":100,
+        "value":50
+    },
+    "min_speed":{
+        "type":"number",
+        "title":"Min Speed",
+        "min":10,
+        "max":100,
+        "value":10
+    },
+    "max_speed":{
+        "type":"number",
+        "title":"Max Speed",
+        "min":10,
+        "max":100,
+        "value":100
+    },
+    "gravity":{
+        "type":"number",
+        "title":"Gravity",
+        "min":0,
+        "max":50,
+        "value":25
+    },
+}
