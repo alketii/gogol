@@ -7,7 +7,10 @@ path="res://.import/Gnome-Document-Revert-32.png-218070e78c2fa620eefcbbd1e1bdadb
 [deps]
 
 source_file="res://icons/Gnome-Document-Revert-32.png"
+source_md5="c80d987330e6499fb626538b31eb342a"
+
 dest_files=[ "res://.import/Gnome-Document-Revert-32.png-218070e78c2fa620eefcbbd1e1bdadb1.stex" ]
+dest_md5="c4b4be6d8b61815acb21d90dbb067f12"
 
 [params]
 

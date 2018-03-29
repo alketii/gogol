@@ -7,7 +7,10 @@ path="res://.import/Gnome-Audio-X-Generic-32.png-f49e201d69526307dd4c64d3a999846
 [deps]
 
 source_file="res://icons/Gnome-Audio-X-Generic-32.png"
+source_md5="9de4c7714fede654fe2538a3f24a6825"
+
 dest_files=[ "res://.import/Gnome-Audio-X-Generic-32.png-f49e201d69526307dd4c64d3a999846f.stex" ]
+dest_md5="11849e6d38cc80b56272152ae8614e8e"
 
 [params]
 

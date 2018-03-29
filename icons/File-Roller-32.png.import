@@ -7,7 +7,10 @@ path="res://.import/File-Roller-32.png-c998d31b4ca58a654389cbcdbd0044ac.stex"
 [deps]
 
 source_file="res://icons/File-Roller-32.png"
+source_md5="f2986d1ebb9686a04cc51c3072a7958e"
+
 dest_files=[ "res://.import/File-Roller-32.png-c998d31b4ca58a654389cbcdbd0044ac.stex" ]
+dest_md5="5720b9f30e2f23e4d304d198815bd892"
 
 [params]
 

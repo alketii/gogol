@@ -7,7 +7,10 @@ path="res://.import/Gnome-Object-Flip-Vertical-32.png-28135bc4690c0634bccd325f57
 [deps]
 
 source_file="res://icons/Gnome-Object-Flip-Vertical-32.png"
+source_md5="ace1812b117ad5265d87c1cc48695ec7"
+
 dest_files=[ "res://.import/Gnome-Object-Flip-Vertical-32.png-28135bc4690c0634bccd325f57741450.stex" ]
+dest_md5="153172af9b8fabf579334baaa06ec82c"
 
 [params]
 

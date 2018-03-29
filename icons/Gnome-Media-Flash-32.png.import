@@ -7,7 +7,10 @@ path="res://.import/Gnome-Media-Flash-32.png-aae7176805a56616df6039c939ba9c8c.st
 [deps]
 
 source_file="res://icons/Gnome-Media-Flash-32.png"
+source_md5="2194e3bc80ce9ff300cddcfbd5d5872e"
+
 dest_files=[ "res://.import/Gnome-Media-Flash-32.png-aae7176805a56616df6039c939ba9c8c.stex" ]
+dest_md5="f15bb96d2c75ef1ebb49cb32371a50e1"
 
 [params]
 

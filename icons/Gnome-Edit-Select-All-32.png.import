@@ -7,7 +7,10 @@ path="res://.import/Gnome-Edit-Select-All-32.png-c77df1f024af70a026b1ace2b034aed
 [deps]
 
 source_file="res://icons/Gnome-Edit-Select-All-32.png"
+source_md5="6007deba9138bfc51225cabc1ebc6e05"
+
 dest_files=[ "res://.import/Gnome-Edit-Select-All-32.png-c77df1f024af70a026b1ace2b034aede.stex" ]
+dest_md5="e53b580dd0998c5ca9d92df488f70af5"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Preferences-Desktop-Remote-Desktop-32.png-c900e1b714e6
 [deps]
 
 source_file="res://icons/Gnome-Preferences-Desktop-Remote-Desktop-32.png"
+source_md5="7f2654afcb397068754953c2a9efe3f7"
+
 dest_files=[ "res://.import/Gnome-Preferences-Desktop-Remote-Desktop-32.png-c900e1b714e63ef7df7f53c11094a37d.stex" ]
+dest_md5="b40d4bb688b73a134908c1c33ee40f23"
 
 [params]
 

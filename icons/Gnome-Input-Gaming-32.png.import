@@ -7,7 +7,10 @@ path="res://.import/Gnome-Input-Gaming-32.png-f8954dd621946bc3475e9cd4c5297e32.s
 [deps]
 
 source_file="res://icons/Gnome-Input-Gaming-32.png"
+source_md5="7510db746928dd4ad4e6a6a0b866cd65"
+
 dest_files=[ "res://.import/Gnome-Input-Gaming-32.png-f8954dd621946bc3475e9cd4c5297e32.stex" ]
+dest_md5="744acae36f526a6e7dcc997793a1a277"
 
 [params]
 

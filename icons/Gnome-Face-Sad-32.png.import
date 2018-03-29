@@ -7,7 +7,10 @@ path="res://.import/Gnome-Face-Sad-32.png-84247e320292292f8b1a9cd1ab9c3811.stex"
 [deps]
 
 source_file="res://icons/Gnome-Face-Sad-32.png"
+source_md5="f8e07fb7d13f0a7a0ab56571c3d41929"
+
 dest_files=[ "res://.import/Gnome-Face-Sad-32.png-84247e320292292f8b1a9cd1ab9c3811.stex" ]
+dest_md5="68fb06c5d9d21692118102a2a2dbf4aa"
 
 [params]
 

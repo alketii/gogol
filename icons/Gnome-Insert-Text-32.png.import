@@ -7,7 +7,10 @@ path="res://.import/Gnome-Insert-Text-32.png-74b608646374588a543c9917015fdf75.st
 [deps]
 
 source_file="res://icons/Gnome-Insert-Text-32.png"
+source_md5="ae6e706b92e2160483fe08b2f5c9f3fd"
+
 dest_files=[ "res://.import/Gnome-Insert-Text-32.png-74b608646374588a543c9917015fdf75.stex" ]
+dest_md5="01a0275117a67f70c5e9d364d1780feb"
 
 [params]
 

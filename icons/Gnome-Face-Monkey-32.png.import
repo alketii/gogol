@@ -7,7 +7,10 @@ path="res://.import/Gnome-Face-Monkey-32.png-08fcba938cedf0b727e3aeef2dcdbef1.st
 [deps]
 
 source_file="res://icons/Gnome-Face-Monkey-32.png"
+source_md5="85f38aca87f164424c71e6d64016a204"
+
 dest_files=[ "res://.import/Gnome-Face-Monkey-32.png-08fcba938cedf0b727e3aeef2dcdbef1.stex" ]
+dest_md5="bf8bccef8dca0f1c3fe1012ea39ed9c5"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Face-Cool-32.png-aaba87a6d8a8e2a77b54d5bb7b898397.stex
 [deps]
 
 source_file="res://icons/Gnome-Face-Cool-32.png"
+source_md5="59ebeb251905e581f0ecfb3f04abc6ce"
+
 dest_files=[ "res://.import/Gnome-Face-Cool-32.png-aaba87a6d8a8e2a77b54d5bb7b898397.stex" ]
+dest_md5="04af9e2a12014202c440943df94c9037"
 
 [params]
 

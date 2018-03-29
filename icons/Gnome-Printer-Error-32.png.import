@@ -7,7 +7,10 @@ path="res://.import/Gnome-Printer-Error-32.png-685ce11957aa8eec0ab4f496290b0f80.
 [deps]
 
 source_file="res://icons/Gnome-Printer-Error-32.png"
+source_md5="6b9615d2522137bd304be7533fbbe7c5"
+
 dest_files=[ "res://.import/Gnome-Printer-Error-32.png-685ce11957aa8eec0ab4f496290b0f80.stex" ]
+dest_md5="a7bad030d4053f29c6490f8e4c00575e"
 
 [params]
 

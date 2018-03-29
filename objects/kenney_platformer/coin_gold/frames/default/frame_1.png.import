@@ -7,7 +7,10 @@ path="res://.import/frame_1.png-5279e9ade1a204f2e1d726a4f75c9c31.stex"
 [deps]
 
 source_file="res://objects/kenney_platformer/coin_gold/frames/default/frame_1.png"
+source_md5="3f62c8fa35cc222cc8e443a3c261c26f"
+
 dest_files=[ "res://.import/frame_1.png-5279e9ade1a204f2e1d726a4f75c9c31.stex" ]
+dest_md5="d68489cb708865afe2974e6f6952b2a6"
 
 [params]
 

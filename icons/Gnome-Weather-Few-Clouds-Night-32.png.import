@@ -7,7 +7,10 @@ path="res://.import/Gnome-Weather-Few-Clouds-Night-32.png-e7df350ddedd711672cdaa
 [deps]
 
 source_file="res://icons/Gnome-Weather-Few-Clouds-Night-32.png"
+source_md5="07afbb31ae0e2436254b5ae7acfc6775"
+
 dest_files=[ "res://.import/Gnome-Weather-Few-Clouds-Night-32.png-e7df350ddedd711672cdaa6c8dfcb330.stex" ]
+dest_md5="4ecfe1b5eac236cffec113e4c9b45894"
 
 [params]
 

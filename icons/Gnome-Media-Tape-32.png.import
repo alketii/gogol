@@ -7,7 +7,10 @@ path="res://.import/Gnome-Media-Tape-32.png-2f5e99c899dc8a685e7cbe30d45a254c.ste
 [deps]
 
 source_file="res://icons/Gnome-Media-Tape-32.png"
+source_md5="47cceca24c5d0a2b900543b936473546"
+
 dest_files=[ "res://.import/Gnome-Media-Tape-32.png-2f5e99c899dc8a685e7cbe30d45a254c.stex" ]
+dest_md5="def84c9f2c0492f15a1b9ef826616557"
 
 [params]
 

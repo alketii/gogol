@@ -7,7 +7,10 @@ path="res://.import/Gnome-Phone-32.png-c17e0674118879483f568da29d837135.stex"
 [deps]
 
 source_file="res://icons/Gnome-Phone-32.png"
+source_md5="c52cefb87d0e3a483285cc0626f7cd07"
+
 dest_files=[ "res://.import/Gnome-Phone-32.png-c17e0674118879483f568da29d837135.stex" ]
+dest_md5="a3af5fa2b257461bbdf1b4d77c6ed6e2"
 
 [params]
 

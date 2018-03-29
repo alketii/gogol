@@ -7,7 +7,10 @@ path="res://.import/Gnome-View-Sort-Descending-32.png-1e27213ef5ac45af735267f06d
 [deps]
 
 source_file="res://icons/Gnome-View-Sort-Descending-32.png"
+source_md5="f77866211bf9123245f906c9a066aa41"
+
 dest_files=[ "res://.import/Gnome-View-Sort-Descending-32.png-1e27213ef5ac45af735267f06d967c27.stex" ]
+dest_md5="5a3dcef493a5bd225978db6841318a75"
 
 [params]
 

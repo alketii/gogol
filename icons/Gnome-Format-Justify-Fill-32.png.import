@@ -7,7 +7,10 @@ path="res://.import/Gnome-Format-Justify-Fill-32.png-acfd67f0b74f2bebd5eaaa29e5f
 [deps]
 
 source_file="res://icons/Gnome-Format-Justify-Fill-32.png"
+source_md5="d5fa337bc124a2822cae804091e84d95"
+
 dest_files=[ "res://.import/Gnome-Format-Justify-Fill-32.png-acfd67f0b74f2bebd5eaaa29e5f3b834.stex" ]
+dest_md5="3ed3cd21d819b0e23a959733ccd59222"
 
 [params]
 

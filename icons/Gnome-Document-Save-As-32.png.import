@@ -7,7 +7,10 @@ path="res://.import/Gnome-Document-Save-As-32.png-58625818f4b2d91b1b49fd0380aa18
 [deps]
 
 source_file="res://icons/Gnome-Document-Save-As-32.png"
+source_md5="4651e5e8aa0c0133e484f8fd0bc8a01a"
+
 dest_files=[ "res://.import/Gnome-Document-Save-As-32.png-58625818f4b2d91b1b49fd0380aa187c.stex" ]
+dest_md5="4956a7fc29d3179dae8029187bf2ffe7"
 
 [params]
 

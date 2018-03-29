@@ -7,7 +7,10 @@ path="res://.import/Gnome-Text-X-Script-32.png-7acb2263332ef2b164bb39b86f9ccf35.
 [deps]
 
 source_file="res://icons/Gnome-Text-X-Script-32.png"
+source_md5="a3af48c8149a429bff6e315cfffaf777"
+
 dest_files=[ "res://.import/Gnome-Text-X-Script-32.png-7acb2263332ef2b164bb39b86f9ccf35.stex" ]
+dest_md5="54a8a8b5190115a1d497a2bfda2186fe"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-View-Fullscreen-32.png-ac0a50e2ce55daeca95e71a304ad57d
 [deps]
 
 source_file="res://icons/Gnome-View-Fullscreen-32.png"
+source_md5="047af0906b5e6d09a5a70310dfedcd23"
+
 dest_files=[ "res://.import/Gnome-View-Fullscreen-32.png-ac0a50e2ce55daeca95e71a304ad57dc.stex" ]
+dest_md5="50cf05bd94cbe9d9740bfce84cfd507b"
 
 [params]
 

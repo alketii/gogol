@@ -7,7 +7,10 @@ path="res://.import/Gnome-Settings-Ui-Behavior-32.png-2e14028d4042366e00c2f33dbe
 [deps]
 
 source_file="res://icons/Gnome-Settings-Ui-Behavior-32.png"
+source_md5="c484811e1284c263abfb99a49f7cf8a1"
+
 dest_files=[ "res://.import/Gnome-Settings-Ui-Behavior-32.png-2e14028d4042366e00c2f33dbe9426f7.stex" ]
+dest_md5="9f15bbe7b12f8310bfd018c8bb5cdc9a"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Object-Rotate-Left-32.png-87b123066516648307d5f6ce5de4
 [deps]
 
 source_file="res://icons/Gnome-Object-Rotate-Left-32.png"
+source_md5="e59aaa8c4fa7bbe44ffcd1581d2b9915"
+
 dest_files=[ "res://.import/Gnome-Object-Rotate-Left-32.png-87b123066516648307d5f6ce5de4389d.stex" ]
+dest_md5="be55db9a7e3197b667b9bffef00377df"
 
 [params]
 

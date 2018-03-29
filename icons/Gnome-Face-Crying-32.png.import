@@ -7,7 +7,10 @@ path="res://.import/Gnome-Face-Crying-32.png-7ba8ac1b7142c4bf70e47998eb5407e1.st
 [deps]
 
 source_file="res://icons/Gnome-Face-Crying-32.png"
+source_md5="2493d2b86ca96bdcc2670a64f281879a"
+
 dest_files=[ "res://.import/Gnome-Face-Crying-32.png-7ba8ac1b7142c4bf70e47998eb5407e1.stex" ]
+dest_md5="e29c0425140aa6d2194216ead7ff8e61"
 
 [params]
 

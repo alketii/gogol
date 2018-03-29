@@ -7,7 +7,10 @@ path="res://.import/Gnome-Media-Skip-Backward-32.png-1a176fe1fcdb1eb7e87da9ce5da
 [deps]
 
 source_file="res://icons/Gnome-Media-Skip-Backward-32.png"
+source_md5="67872463455dfed5bbb3a5bd856abc38"
+
 dest_files=[ "res://.import/Gnome-Media-Skip-Backward-32.png-1a176fe1fcdb1eb7e87da9ce5da56531.stex" ]
+dest_md5="5345e954a8f6889553c4fd74c1f46f06"
 
 [params]
 

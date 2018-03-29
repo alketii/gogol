@@ -7,7 +7,10 @@ path="res://.import/Emblem-Money-32.png-7bc460abb696ea8e250835543dd3107a.stex"
 [deps]
 
 source_file="res://icons/Emblem-Money-32.png"
+source_md5="ca743512d2b8b9664121088985c151c6"
+
 dest_files=[ "res://.import/Emblem-Money-32.png-7bc460abb696ea8e250835543dd3107a.stex" ]
+dest_md5="6a5a7ac270fc54932dee1f31a2f06b9f"
 
 [params]
 

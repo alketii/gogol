@@ -7,7 +7,10 @@ path="res://.import/Gnome-Emblem-Unreadable-32.png-9085303baa1665eded2e57177a74a
 [deps]
 
 source_file="res://icons/Gnome-Emblem-Unreadable-32.png"
+source_md5="8f3fd52bc8533d76cb72144fb7a3af8a"
+
 dest_files=[ "res://.import/Gnome-Emblem-Unreadable-32.png-9085303baa1665eded2e57177a74a72c.stex" ]
+dest_md5="5d69a750444a1b5f4ce9d8c5810b2b5d"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/icon_24.png-9a0230a75d8d0e84ac8c099423a18520.stex"
 [deps]
 
 source_file="res://objects/kenney_platformer/spikes/icon_24.png"
+source_md5="ed7f29e81f3586f66166986472891625"
+
 dest_files=[ "res://.import/icon_24.png-9a0230a75d8d0e84ac8c099423a18520.stex" ]
+dest_md5="0a007e56399eb2ca729ad4183cea6ebc"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Weather-Overcast-32.png-32a156a8cb5899a551fe9b08763899
 [deps]
 
 source_file="res://icons/Gnome-Weather-Overcast-32.png"
+source_md5="aa921e039c82e42ce4fd8355c7e55036"
+
 dest_files=[ "res://.import/Gnome-Weather-Overcast-32.png-32a156a8cb5899a551fe9b08763899e6.stex" ]
+dest_md5="a6394e58820ac087a31211f108a19b68"
 
 [params]
 

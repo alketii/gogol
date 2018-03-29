@@ -7,7 +7,10 @@ path="res://.import/Gnome-Media-Seek-Backward-32.png-b38a86d3778c7822ab270e8e50a
 [deps]
 
 source_file="res://icons/Gnome-Media-Seek-Backward-32.png"
+source_md5="31bdacaf7061caf36b2b4c778103bb6c"
+
 dest_files=[ "res://.import/Gnome-Media-Seek-Backward-32.png-b38a86d3778c7822ab270e8e50a4e317.stex" ]
+dest_md5="dabb1e14405d1d1e371f2419ac08ae0f"
 
 [params]
 

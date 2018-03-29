@@ -7,7 +7,10 @@ path="res://.import/Gnome-Emblem-Readonly-32.png-7b04bfed930b89155dff4ce236cf47f
 [deps]
 
 source_file="res://icons/Gnome-Emblem-Readonly-32.png"
+source_md5="35fd62e588bf213e545826cfb81b6cff"
+
 dest_files=[ "res://.import/Gnome-Emblem-Readonly-32.png-7b04bfed930b89155dff4ce236cf47f1.stex" ]
+dest_md5="34bc19b655ccaf97544f4987a9c7a509"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Input-Tablet-32.png-60a33dd147a6b472c6decd84660e4972.s
 [deps]
 
 source_file="res://icons/Gnome-Input-Tablet-32.png"
+source_md5="4f8a55d766eea7f0cf42d2558f889214"
+
 dest_files=[ "res://.import/Gnome-Input-Tablet-32.png-60a33dd147a6b472c6decd84660e4972.stex" ]
+dest_md5="404418e5482185143087d7d80b3b046b"
 
 [params]
 

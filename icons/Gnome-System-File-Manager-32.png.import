@@ -7,7 +7,10 @@ path="res://.import/Gnome-System-File-Manager-32.png-053545627572d6240eb228ae6a9
 [deps]
 
 source_file="res://icons/Gnome-System-File-Manager-32.png"
+source_md5="5fb4abfb202cfc8fef5eac7f88ddf900"
+
 dest_files=[ "res://.import/Gnome-System-File-Manager-32.png-053545627572d6240eb228ae6a9590db.stex" ]
+dest_md5="396062fdf6aa8bfd625b08afd8b0b3ba"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/User-Info-32.png-ceb679ca12bdc9012b6b4e9c8a88c9a1.stex"
 [deps]
 
 source_file="res://icons/User-Info-32.png"
+source_md5="457a220f41d25ab54beabc09f8126dfc"
+
 dest_files=[ "res://.import/User-Info-32.png-ceb679ca12bdc9012b6b4e9c8a88c9a1.stex" ]
+dest_md5="3b7ecb843c0889ea1d81ddc464dbd0cb"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-System-Lock-Screen-32.png-c785b61bbc28030410450d34fbb4
 [deps]
 
 source_file="res://icons/Gnome-System-Lock-Screen-32.png"
+source_md5="0fea1c678fa6659ac42596201aabff9c"
+
 dest_files=[ "res://.import/Gnome-System-Lock-Screen-32.png-c785b61bbc28030410450d34fbb4c366.stex" ]
+dest_md5="aedc976eca3a08d23dd14c64220fa73d"
 
 [params]
 

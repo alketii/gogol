@@ -7,7 +7,10 @@ path="res://.import/Gnome-Preferences-System-Network-32.png-048f115511178db78f1a
 [deps]
 
 source_file="res://icons/Gnome-Preferences-System-Network-32.png"
+source_md5="a422a77077da1538635191e55dd9b74c"
+
 dest_files=[ "res://.import/Gnome-Preferences-System-Network-32.png-048f115511178db78f1a20926dcc832f.stex" ]
+dest_md5="86010064a3bffb821f532cfaffdd9e67"
 
 [params]
 

@@ -15,7 +15,7 @@
 [sub_resource type="Theme" id=1]
 
 
-[node name="main" type="Node2D" index="0"]
+[node name="main" type="Node2D"]
 
 script = ExtResource( 1 )
 
@@ -920,7 +920,7 @@ toggle_mode = false
 enabled_focus_mode = 2
 shortcut = null
 group = null
-text = "Save"
+text = "Save & Run"
 icon = ExtResource( 11 )
 flat = false
 align = 1

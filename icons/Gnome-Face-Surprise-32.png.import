@@ -7,7 +7,10 @@ path="res://.import/Gnome-Face-Surprise-32.png-3ad31adb57e4718fe2e25662674e73a1.
 [deps]
 
 source_file="res://icons/Gnome-Face-Surprise-32.png"
+source_md5="1e1ffa3db99658f4d9d67a1dd8ede66b"
+
 dest_files=[ "res://.import/Gnome-Face-Surprise-32.png-3ad31adb57e4718fe2e25662674e73a1.stex" ]
+dest_md5="a51e791d7a5de5a0b5c5e7a4b6658b44"
 
 [params]
 

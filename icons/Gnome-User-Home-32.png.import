@@ -7,7 +7,10 @@ path="res://.import/Gnome-User-Home-32.png-b585f37878872052c923be319bf0b36b.stex
 [deps]
 
 source_file="res://icons/Gnome-User-Home-32.png"
+source_md5="7189e1135795d7fa2e01ebb714adba9a"
+
 dest_files=[ "res://.import/Gnome-User-Home-32.png-b585f37878872052c923be319bf0b36b.stex" ]
+dest_md5="75ea24bab336fe2e467dd40cb8aa2b31"
 
 [params]
 

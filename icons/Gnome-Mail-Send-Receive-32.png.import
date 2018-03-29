@@ -7,7 +7,10 @@ path="res://.import/Gnome-Mail-Send-Receive-32.png-9ce3210c9b79aa5ca5b00469e0a67
 [deps]
 
 source_file="res://icons/Gnome-Mail-Send-Receive-32.png"
+source_md5="d44a8fe185697ecb43ae31357fd03e55"
+
 dest_files=[ "res://.import/Gnome-Mail-Send-Receive-32.png-9ce3210c9b79aa5ca5b00469e0a67655.stex" ]
+dest_md5="9044bb8ada4d2265fadfd01d53a10dd6"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Preferences-Desktop-Font-32.png-ec4252cbe0e2c87327871c
 [deps]
 
 source_file="res://icons/Gnome-Preferences-Desktop-Font-32.png"
+source_md5="55315c71d57c1bea11420b0a25907790"
+
 dest_files=[ "res://.import/Gnome-Preferences-Desktop-Font-32.png-ec4252cbe0e2c87327871c50de383333.stex" ]
+dest_md5="7c7f11f29e284899ebdf996a44596440"
 
 [params]
 

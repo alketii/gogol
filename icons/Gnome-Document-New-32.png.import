@@ -7,7 +7,10 @@ path="res://.import/Gnome-Document-New-32.png-ac9dd63766d970409f2fdcc640d2a37f.s
 [deps]
 
 source_file="res://icons/Gnome-Document-New-32.png"
+source_md5="a76179efbfbae940f9b97fe415dd5c12"
+
 dest_files=[ "res://.import/Gnome-Document-New-32.png-ac9dd63766d970409f2fdcc640d2a37f.stex" ]
+dest_md5="c762f2411cf59603ee83bdbb82b4f4f5"
 
 [params]
 

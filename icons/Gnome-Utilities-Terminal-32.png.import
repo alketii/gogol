@@ -7,7 +7,10 @@ path="res://.import/Gnome-Utilities-Terminal-32.png-ef688c898394f9651a8e73abe87a
 [deps]
 
 source_file="res://icons/Gnome-Utilities-Terminal-32.png"
+source_md5="abebcc5b069bb2c4e782ef8119f9447e"
+
 dest_files=[ "res://.import/Gnome-Utilities-Terminal-32.png-ef688c898394f9651a8e73abe87ab12c.stex" ]
+dest_md5="26504dd0aee4ac5781d8193cc53f3649"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/frame_6.png-823d7255bbe3417ccbe29b525f645d05.stex"
 [deps]
 
 source_file="res://objects/kenney_platformer/grass/frames/default/frame_6.png"
+source_md5="1131eb4adf32d5cf1abd4c91bfa9d0b3"
+
 dest_files=[ "res://.import/frame_6.png-823d7255bbe3417ccbe29b525f645d05.stex" ]
+dest_md5="59c9aebab0e83a07156c23716cc332e6"
 
 [params]
 

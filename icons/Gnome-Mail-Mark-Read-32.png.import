@@ -7,7 +7,10 @@ path="res://.import/Gnome-Mail-Mark-Read-32.png-536e2a27a5fd67db83ce3db83551b280
 [deps]
 
 source_file="res://icons/Gnome-Mail-Mark-Read-32.png"
+source_md5="aa036050933c4737df1e479cc5ee110a"
+
 dest_files=[ "res://.import/Gnome-Mail-Mark-Read-32.png-536e2a27a5fd67db83ce3db83551b280.stex" ]
+dest_md5="a50272cfebd146e83591ce0645a8bf76"
 
 [params]
 

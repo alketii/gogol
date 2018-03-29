@@ -7,7 +7,10 @@ path="res://.import/frame_1.png-98389b7824f325472779f22e7ff68642.stex"
 [deps]
 
 source_file="res://objects/kenney_platformer/flag_blue/frames/default/frame_1.png"
+source_md5="e37261fbc3fde7dcfd19f0f0849d76c1"
+
 dest_files=[ "res://.import/frame_1.png-98389b7824f325472779f22e7ff68642.stex" ]
+dest_md5="61c45661a71b5a16b089789401a998e2"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Face-Raspberry-32.png-dd0602b089872e7bacae45d21915e280
 [deps]
 
 source_file="res://icons/Gnome-Face-Raspberry-32.png"
+source_md5="c1a38abf424f25614289cb05e2100b7a"
+
 dest_files=[ "res://.import/Gnome-Face-Raspberry-32.png-dd0602b089872e7bacae45d21915e280.stex" ]
+dest_md5="56e1080daaa6bc1589e3ca3078cff0d0"
 
 [params]
 

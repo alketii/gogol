@@ -7,7 +7,10 @@ path="res://.import/Gnome-Mail-Replied-32.png-5c07f40aed8dac9dab344e8000a17ccf.s
 [deps]
 
 source_file="res://icons/Gnome-Mail-Replied-32.png"
+source_md5="5c314a6c584203ee92840511ee717ea8"
+
 dest_files=[ "res://.import/Gnome-Mail-Replied-32.png-5c07f40aed8dac9dab344e8000a17ccf.stex" ]
+dest_md5="d92fff3da918bc157ebd054b3396ef9d"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-System-Log-Out-32.png-aca9b457a6a0beab741f027d65467cee
 [deps]
 
 source_file="res://icons/Gnome-System-Log-Out-32.png"
+source_md5="fc68aaa9c585f5de66bf3650fc9cec6b"
+
 dest_files=[ "res://.import/Gnome-System-Log-Out-32.png-aca9b457a6a0beab741f027d65467cee.stex" ]
+dest_md5="31ea6ef0a61cd5558d58c119ab745bfe"
 
 [params]
 

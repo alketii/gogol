@@ -7,7 +7,10 @@ path="res://.import/Gnome-Edit-Find-32.png-617a40319584206849c01e6939e1bd8b.stex
 [deps]
 
 source_file="res://icons/Gnome-Edit-Find-32.png"
+source_md5="97f52c03d4500f66e36483c93a22fab0"
+
 dest_files=[ "res://.import/Gnome-Edit-Find-32.png-617a40319584206849c01e6939e1bd8b.stex" ]
+dest_md5="6f269d3139ec8bef708c529254ec2103"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Dialog-Error-32.png-2ae7774c818522301e941d65abbc3416.s
 [deps]
 
 source_file="res://icons/Gnome-Dialog-Error-32.png"
+source_md5="4c5bab81421403c506ecd7c049ea5b28"
+
 dest_files=[ "res://.import/Gnome-Dialog-Error-32.png-2ae7774c818522301e941d65abbc3416.stex" ]
+dest_md5="c790d05b8242aa200032bc187a1b2e06"
 
 [params]
 

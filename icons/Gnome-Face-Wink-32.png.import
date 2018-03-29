@@ -7,7 +7,10 @@ path="res://.import/Gnome-Face-Wink-32.png-a6ae9582d7478d5ec3f4b69ee0356460.stex
 [deps]
 
 source_file="res://icons/Gnome-Face-Wink-32.png"
+source_md5="c477e0c2c8e2943b7b40166a04de74f8"
+
 dest_files=[ "res://.import/Gnome-Face-Wink-32.png-a6ae9582d7478d5ec3f4b69ee0356460.stex" ]
+dest_md5="77c4a43568040ba85a68d5756db6ae26"
 
 [params]
 

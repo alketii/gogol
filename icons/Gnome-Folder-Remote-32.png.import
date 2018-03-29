@@ -7,7 +7,10 @@ path="res://.import/Gnome-Folder-Remote-32.png-832449e9d614560393645364c5748f3e.
 [deps]
 
 source_file="res://icons/Gnome-Folder-Remote-32.png"
+source_md5="d3e9b97b910df0f5e8e682d961376d0a"
+
 dest_files=[ "res://.import/Gnome-Folder-Remote-32.png-832449e9d614560393645364c5748f3e.stex" ]
+dest_md5="aeba42b8e8568267818a5b76ba4447b4"
 
 [params]
 

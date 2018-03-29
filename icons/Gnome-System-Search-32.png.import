@@ -7,7 +7,10 @@ path="res://.import/Gnome-System-Search-32.png-56333adca76045aff8a756922b86cbb3.
 [deps]
 
 source_file="res://icons/Gnome-System-Search-32.png"
+source_md5="4de24803e6380c3f8c0090362d665eb6"
+
 dest_files=[ "res://.import/Gnome-System-Search-32.png-56333adca76045aff8a756922b86cbb3.stex" ]
+dest_md5="845c4797daf2ca42cf2e5d15ef20bcd4"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Folder-Open-32.png-e8b10e5d1a4adb44a1986d0677a84340.st
 [deps]
 
 source_file="res://icons/Gnome-Folder-Open-32.png"
+source_md5="aa5b50bfc5cf542840ba5120af6624e6"
+
 dest_files=[ "res://.import/Gnome-Folder-Open-32.png-e8b10e5d1a4adb44a1986d0677a84340.stex" ]
+dest_md5="06f67437ed8dd60a532a3bb75df1d8fb"
 
 [params]
 

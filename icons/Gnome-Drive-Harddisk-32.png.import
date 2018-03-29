@@ -7,7 +7,10 @@ path="res://.import/Gnome-Drive-Harddisk-32.png-4549a926a35743c777ebe35e41a48f24
 [deps]
 
 source_file="res://icons/Gnome-Drive-Harddisk-32.png"
+source_md5="9822c6c631f2b4eedf7f116650f22ad8"
+
 dest_files=[ "res://.import/Gnome-Drive-Harddisk-32.png-4549a926a35743c777ebe35e41a48f24.stex" ]
+dest_md5="a95af293298fbafa805779dcdaa2ebbf"
 
 [params]
 

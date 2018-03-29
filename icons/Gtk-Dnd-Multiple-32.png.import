@@ -7,7 +7,10 @@ path="res://.import/Gtk-Dnd-Multiple-32.png-69f3395e22e8f53e40834a7b8ed13754.ste
 [deps]
 
 source_file="res://icons/Gtk-Dnd-Multiple-32.png"
+source_md5="8bb4b3f1c668fcf0113851930cbf91ed"
+
 dest_files=[ "res://.import/Gtk-Dnd-Multiple-32.png-69f3395e22e8f53e40834a7b8ed13754.stex" ]
+dest_md5="9278fe6f59c96c2835a2ff86bf8422aa"
 
 [params]
 

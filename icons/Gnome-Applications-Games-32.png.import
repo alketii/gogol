@@ -7,7 +7,10 @@ path="res://.import/Gnome-Applications-Games-32.png-0e4deafc88d96b2d260170abcd10
 [deps]
 
 source_file="res://icons/Gnome-Applications-Games-32.png"
+source_md5="77fcf96ef4a6c9458df64da1d1487cfa"
+
 dest_files=[ "res://.import/Gnome-Applications-Games-32.png-0e4deafc88d96b2d260170abcd10c460.stex" ]
+dest_md5="8054fb8bdade8aa1ddc8a2e3fd3cfde0"
 
 [params]
 

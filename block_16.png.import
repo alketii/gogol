@@ -7,7 +7,10 @@ path="res://.import/block_16.png-168e2f40a4e6d290cd81a26b106c6a45.stex"
 [deps]
 
 source_file="res://block_16.png"
+source_md5="47714151826ad48f5c4dce4aa885efa2"
+
 dest_files=[ "res://.import/block_16.png-168e2f40a4e6d290cd81a26b106c6a45.stex" ]
+dest_md5="1750e699f743e1e57c1d0cb7dc108054"
 
 [params]
 

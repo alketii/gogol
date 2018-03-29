@@ -7,7 +7,10 @@ path="res://.import/Gnome-Network-Idle-32.png-fe9cc78da7129fa37134d4691aad3d08.s
 [deps]
 
 source_file="res://icons/Gnome-Network-Idle-32.png"
+source_md5="8147256ed0d253655b76080d78726866"
+
 dest_files=[ "res://.import/Gnome-Network-Idle-32.png-fe9cc78da7129fa37134d4691aad3d08.stex" ]
+dest_md5="de6c79f9467fb68ff9c872b5d1d1aa09"
 
 [params]
 

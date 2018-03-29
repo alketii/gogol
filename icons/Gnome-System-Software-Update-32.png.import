@@ -7,7 +7,10 @@ path="res://.import/Gnome-System-Software-Update-32.png-21615254c244a4a355a335cb
 [deps]
 
 source_file="res://icons/Gnome-System-Software-Update-32.png"
+source_md5="9afb03e8662d6a09fe5df0c8e739b8e7"
+
 dest_files=[ "res://.import/Gnome-System-Software-Update-32.png-21615254c244a4a355a335cb6a2120eb.stex" ]
+dest_md5="293ace76028fbbd3041a1b56594ca297"
 
 [params]
 

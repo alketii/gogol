@@ -7,7 +7,10 @@ path="res://.import/Gnome-Media-Optical-32.png-7b7fcafff4a5517bb25cd6bb11052f5b.
 [deps]
 
 source_file="res://icons/Gnome-Media-Optical-32.png"
+source_md5="5668827e18b5d08d93b83107d9924114"
+
 dest_files=[ "res://.import/Gnome-Media-Optical-32.png-7b7fcafff4a5517bb25cd6bb11052f5b.stex" ]
+dest_md5="d80fed280ead7405c3b02abbf033294d"
 
 [params]
 

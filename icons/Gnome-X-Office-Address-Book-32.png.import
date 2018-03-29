@@ -7,7 +7,10 @@ path="res://.import/Gnome-X-Office-Address-Book-32.png-28e72bed31b4907f47ce21a53
 [deps]
 
 source_file="res://icons/Gnome-X-Office-Address-Book-32.png"
+source_md5="d3c9d4edd57ac9fa02ab352c35ee26b6"
+
 dest_files=[ "res://.import/Gnome-X-Office-Address-Book-32.png-28e72bed31b4907f47ce21a53e09fc04.stex" ]
+dest_md5="147ff3dc9bd8abaabf1107316c5e033f"
 
 [params]
 

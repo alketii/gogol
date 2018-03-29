@@ -7,7 +7,10 @@ path="res://.import/Application-Default-Icon-32.png-dfcdb330d87ce39955e29c4c211b
 [deps]
 
 source_file="res://icons/Application-Default-Icon-32.png"
+source_md5="9fdba67a25bb09d00680d13f618b9a0f"
+
 dest_files=[ "res://.import/Application-Default-Icon-32.png-dfcdb330d87ce39955e29c4c211b635e.stex" ]
+dest_md5="b86459138c8e0c4894558ba468ef5463"
 
 [params]
 

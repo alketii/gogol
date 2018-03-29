@@ -7,7 +7,10 @@ path="res://.import/Gnome-Edit-Copy-32.png-27637789d2888970faccc1cc468e333f.stex
 [deps]
 
 source_file="res://icons/Gnome-Edit-Copy-32.png"
+source_md5="ba00676958552a280c38a2d7c0beaedf"
+
 dest_files=[ "res://.import/Gnome-Edit-Copy-32.png-27637789d2888970faccc1cc468e333f.stex" ]
+dest_md5="cdf84c7101e2ff24221be6a3a82df69e"
 
 [params]
 

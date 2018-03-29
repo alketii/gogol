@@ -7,7 +7,10 @@ path="res://.import/Gnome-Emblem-Mail-32.png-216a9ce984aca90f4feebbcc36d3271d.st
 [deps]
 
 source_file="res://icons/Gnome-Emblem-Mail-32.png"
+source_md5="b2d7de06b51ee48bd416352461f8b81d"
+
 dest_files=[ "res://.import/Gnome-Emblem-Mail-32.png-216a9ce984aca90f4feebbcc36d3271d.stex" ]
+dest_md5="d660540de8c4afd7a0c410543e1b6124"
 
 [params]
 

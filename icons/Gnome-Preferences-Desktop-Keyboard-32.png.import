@@ -7,7 +7,10 @@ path="res://.import/Gnome-Preferences-Desktop-Keyboard-32.png-be906907aff9937421
 [deps]
 
 source_file="res://icons/Gnome-Preferences-Desktop-Keyboard-32.png"
+source_md5="64f4d510fbf8735cf7ceb5d6d2b7f973"
+
 dest_files=[ "res://.import/Gnome-Preferences-Desktop-Keyboard-32.png-be906907aff9937421884845cb6b175c.stex" ]
+dest_md5="63092a0b0adcbc2109e2815595d5ae5e"
 
 [params]
 

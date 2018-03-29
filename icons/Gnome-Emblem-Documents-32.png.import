@@ -7,7 +7,10 @@ path="res://.import/Gnome-Emblem-Documents-32.png-2e1e7d92feadcee02cc5bcdf7990df
 [deps]
 
 source_file="res://icons/Gnome-Emblem-Documents-32.png"
+source_md5="58e99c943cc8b46f2e7ac49599a97fbb"
+
 dest_files=[ "res://.import/Gnome-Emblem-Documents-32.png-2e1e7d92feadcee02cc5bcdf7990dfd5.stex" ]
+dest_md5="9f8c48026df8227af99f5443bafbb403"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Input-Mouse-32.png-7cd007972b4e6df314e5b1e565d0b8c3.st
 [deps]
 
 source_file="res://icons/Gnome-Input-Mouse-32.png"
+source_md5="0a908d4dd1249ee4d05220042cd4b2d7"
+
 dest_files=[ "res://.import/Gnome-Input-Mouse-32.png-7cd007972b4e6df314e5b1e565d0b8c3.stex" ]
+dest_md5="fc9f0ef68dded51025d6398f7c8a4718"
 
 [params]
 

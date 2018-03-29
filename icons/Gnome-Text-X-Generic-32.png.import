@@ -7,7 +7,10 @@ path="res://.import/Gnome-Text-X-Generic-32.png-62e05e8d9b308131f3b7af36b282e327
 [deps]
 
 source_file="res://icons/Gnome-Text-X-Generic-32.png"
+source_md5="c7a3cdd59b1693f0d7f9ad6c46f98a37"
+
 dest_files=[ "res://.import/Gnome-Text-X-Generic-32.png-62e05e8d9b308131f3b7af36b282e327.stex" ]
+dest_md5="c098eaf66d55c9e6354800783afd3f70"
 
 [params]
 

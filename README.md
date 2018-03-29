@@ -11,7 +11,7 @@ The goals are:
 * Script-free
 * The main platform are tablets devices
 * Should be easy to dive in
-* Not a "game engine/editor" or "Sketch" replacement, rather a playgorund.
+* Not a "game engine/editor" or "Skratch" replacement, rather a playgorund.
 * Provide many usable free assets.
 * Share works in Gogols built-in community
 
@@ -23,4 +23,4 @@ Currently it lacks a runner/interpreter of projects created with editor, events 
 * Editor - partial
 * File format - partial
 * Events - not started
-* Runner - not started
+* Runner - very early stage

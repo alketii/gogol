@@ -7,7 +7,10 @@ path="res://.import/Gnome-Utilities-System-Monitor-32.png-d364e6fae0d86c931f79e5
 [deps]
 
 source_file="res://icons/Gnome-Utilities-System-Monitor-32.png"
+source_md5="cb011ee79c555f95baba881a1bb4b1c0"
+
 dest_files=[ "res://.import/Gnome-Utilities-System-Monitor-32.png-d364e6fae0d86c931f79e5bf8849f32c.stex" ]
+dest_md5="6c98c67d42b087281a151bea8fe66ad5"
 
 [params]
 

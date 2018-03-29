@@ -7,7 +7,10 @@ path="res://.import/Gnome-Document-Open-Recent-32.png-9b76bf8a4ac9ec835e6c736d6d
 [deps]
 
 source_file="res://icons/Gnome-Document-Open-Recent-32.png"
+source_md5="1bc0908533129a83f7a90cacdc8f5e6c"
+
 dest_files=[ "res://.import/Gnome-Document-Open-Recent-32.png-9b76bf8a4ac9ec835e6c736d6d5ef278.stex" ]
+dest_md5="21093492e6b22c9d08db3fbf723ace77"
 
 [params]
 

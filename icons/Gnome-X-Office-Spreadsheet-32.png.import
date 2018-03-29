@@ -7,7 +7,10 @@ path="res://.import/Gnome-X-Office-Spreadsheet-32.png-f9d6502bce36accdbf888e18aa
 [deps]
 
 source_file="res://icons/Gnome-X-Office-Spreadsheet-32.png"
+source_md5="5c3d4b228baa956f49cb33b00f72cea5"
+
 dest_files=[ "res://.import/Gnome-X-Office-Spreadsheet-32.png-f9d6502bce36accdbf888e18aa5e9512.stex" ]
+dest_md5="f7800c3441a4dc2f1c3efddefc8b158e"
 
 [params]
 

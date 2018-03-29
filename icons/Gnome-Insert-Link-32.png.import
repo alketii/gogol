@@ -7,7 +7,10 @@ path="res://.import/Gnome-Insert-Link-32.png-00f12ce6b4f14ea616576ac71d62a8fd.st
 [deps]
 
 source_file="res://icons/Gnome-Insert-Link-32.png"
+source_md5="725de48111a038302de8a197b35f6411"
+
 dest_files=[ "res://.import/Gnome-Insert-Link-32.png-00f12ce6b4f14ea616576ac71d62a8fd.stex" ]
+dest_md5="565ed9112d6d6dce5d1caf67ef73adb8"
 
 [params]
 

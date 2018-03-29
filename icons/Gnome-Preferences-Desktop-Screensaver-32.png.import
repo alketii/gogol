@@ -7,7 +7,10 @@ path="res://.import/Gnome-Preferences-Desktop-Screensaver-32.png-743cd753aa19dcf
 [deps]
 
 source_file="res://icons/Gnome-Preferences-Desktop-Screensaver-32.png"
+source_md5="4a2eea7d9bbb289c644cbd971bf3aa1e"
+
 dest_files=[ "res://.import/Gnome-Preferences-Desktop-Screensaver-32.png-743cd753aa19dcf6f9cd94dc040a8436.stex" ]
+dest_md5="b43615a5fe16ef2b412cccea7d88c2bb"
 
 [params]
 

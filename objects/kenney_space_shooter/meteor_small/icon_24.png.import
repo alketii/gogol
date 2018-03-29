@@ -7,7 +7,10 @@ path="res://.import/icon_24.png-22bed121d59904ba1a2999d4f056c3a0.stex"
 [deps]
 
 source_file="res://objects/kenney_space_shooter/meteor_small/icon_24.png"
+source_md5="f1b383d0927121f3d68604e2c845f81a"
+
 dest_files=[ "res://.import/icon_24.png-22bed121d59904ba1a2999d4f056c3a0.stex" ]
+dest_md5="80b60d8fd9ad43bebead69262a061b2c"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Window-Close-32.png-ecf4354b4f35a5ca26307ae731825c7b.s
 [deps]
 
 source_file="res://icons/Gnome-Window-Close-32.png"
+source_md5="e1441f4def9f61f4265deba156b7147c"
+
 dest_files=[ "res://.import/Gnome-Window-Close-32.png-ecf4354b4f35a5ca26307ae731825c7b.stex" ]
+dest_md5="ecf2cbe6d746e3de71137b8f786752ab"
 
 [params]
 

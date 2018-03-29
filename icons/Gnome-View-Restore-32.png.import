@@ -7,7 +7,10 @@ path="res://.import/Gnome-View-Restore-32.png-4633eea182ac11f39e1812c70a9d54a3.s
 [deps]
 
 source_file="res://icons/Gnome-View-Restore-32.png"
+source_md5="6fc614bde78fe865275c162342685a73"
+
 dest_files=[ "res://.import/Gnome-View-Restore-32.png-4633eea182ac11f39e1812c70a9d54a3.stex" ]
+dest_md5="e49c09cbb2be981e9ff6e33bb8222f04"
 
 [params]
 

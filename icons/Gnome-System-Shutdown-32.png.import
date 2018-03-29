@@ -7,7 +7,10 @@ path="res://.import/Gnome-System-Shutdown-32.png-2764ed68675f79623960fb262a95648
 [deps]
 
 source_file="res://icons/Gnome-System-Shutdown-32.png"
+source_md5="c34aafa6d33b02579999a36af722d860"
+
 dest_files=[ "res://.import/Gnome-System-Shutdown-32.png-2764ed68675f79623960fb262a956482.stex" ]
+dest_md5="4bb5d5afd441be5b4f7550846a7697be"
 
 [params]
 

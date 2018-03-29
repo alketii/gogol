@@ -7,7 +7,10 @@ path="res://.import/Gnome-Preferences-Desktop-Theme-32.png-fc39a1030e0d1a3b1d5f3
 [deps]
 
 source_file="res://icons/Gnome-Preferences-Desktop-Theme-32.png"
+source_md5="18b32f05b3100033ba70ed87910c6b75"
+
 dest_files=[ "res://.import/Gnome-Preferences-Desktop-Theme-32.png-fc39a1030e0d1a3b1d5f3eb6c7fadfcc.stex" ]
+dest_md5="b998897c6630e144b27ff6618de3b74d"
 
 [params]
 

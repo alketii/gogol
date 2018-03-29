@@ -7,7 +7,10 @@ path="res://.import/Gnome-Network-Offline-32.png-984b197c257b56ac59df4e53767baf2
 [deps]
 
 source_file="res://icons/Gnome-Network-Offline-32.png"
+source_md5="3960f3a11919fb83d5f10ae8faef9e40"
+
 dest_files=[ "res://.import/Gnome-Network-Offline-32.png-984b197c257b56ac59df4e53767baf2b.stex" ]
+dest_md5="3a9d4915f8ef9c6d2f290a18301fdcf9"
 
 [params]
 

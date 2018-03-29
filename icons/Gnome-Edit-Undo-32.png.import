@@ -7,7 +7,10 @@ path="res://.import/Gnome-Edit-Undo-32.png-e93907f6c156d187563b52a9a262049a.stex
 [deps]
 
 source_file="res://icons/Gnome-Edit-Undo-32.png"
+source_md5="33da29fdb0bd0f07669852584fd59345"
+
 dest_files=[ "res://.import/Gnome-Edit-Undo-32.png-e93907f6c156d187563b52a9a262049a.stex" ]
+dest_md5="8078c4f465c12eb1794b2bf25a9d946c"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Applications-Multimedia-32.png-6e43b1e4a321791148d6b8f
 [deps]
 
 source_file="res://icons/Gnome-Applications-Multimedia-32.png"
+source_md5="09ce6f86d068aa85bb1ea8a38f59acf4"
+
 dest_files=[ "res://.import/Gnome-Applications-Multimedia-32.png-6e43b1e4a321791148d6b8f4727f5ba2.stex" ]
+dest_md5="0c4434cff3607b05d61f109cd098d6c5"
 
 [params]
 

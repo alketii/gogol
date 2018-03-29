@@ -7,7 +7,10 @@ path="res://.import/Gnome-Network-Wired-32.png-1f50dfbc3e08b0facabe14106e9eeb9b.
 [deps]
 
 source_file="res://icons/Gnome-Network-Wired-32.png"
+source_md5="b29dfe69954eaf3157222c597c33a7ed"
+
 dest_files=[ "res://.import/Gnome-Network-Wired-32.png-1f50dfbc3e08b0facabe14106e9eeb9b.stex" ]
+dest_md5="7c98cb3f58ede2ddc2a420ae74894cff"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Go-Down-32.png-6fccc961b02858de9338d6de0a5e5059.stex"
 [deps]
 
 source_file="res://icons/Gnome-Go-Down-32.png"
+source_md5="e25beb5490c828ca9e91e79a138b9521"
+
 dest_files=[ "res://.import/Gnome-Go-Down-32.png-6fccc961b02858de9338d6de0a5e5059.stex" ]
+dest_md5="0a7ed68387bea62dffe858384a2a608f"
 
 [params]
 

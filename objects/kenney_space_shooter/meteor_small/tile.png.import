@@ -7,7 +7,10 @@ path="res://.import/tile.png-d8a01d66db33d578524a2465842861b8.stex"
 [deps]
 
 source_file="res://objects/kenney_space_shooter/meteor_small/tile.png"
+source_md5="ebabf6690cc614f9e33f019c356166fa"
+
 dest_files=[ "res://.import/tile.png-d8a01d66db33d578524a2465842861b8.stex" ]
+dest_md5="3821dbfbac5589ad487466320e561a14"
 
 [params]
 

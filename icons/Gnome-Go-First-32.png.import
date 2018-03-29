@@ -7,7 +7,10 @@ path="res://.import/Gnome-Go-First-32.png-e068bcb2adf9cd438fb3148a4aa7598b.stex"
 [deps]
 
 source_file="res://icons/Gnome-Go-First-32.png"
+source_md5="71d141c1fccbb066c8bd0bc685d2791a"
+
 dest_files=[ "res://.import/Gnome-Go-First-32.png-e068bcb2adf9cd438fb3148a4aa7598b.stex" ]
+dest_md5="1f8007dd25e7db0044c804ee8f5e61e2"
 
 [params]
 

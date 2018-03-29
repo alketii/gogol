@@ -7,7 +7,10 @@ path="res://.import/Gnome-Software-Update-Urgent-32.png-3282c10c4b87f053689d9103
 [deps]
 
 source_file="res://icons/Gnome-Software-Update-Urgent-32.png"
+source_md5="75a5ea57012e3ac39005e4818b260532"
+
 dest_files=[ "res://.import/Gnome-Software-Update-Urgent-32.png-3282c10c4b87f053689d9103a9e2b9f2.stex" ]
+dest_md5="8578bd07c121290bbc92fc42321a7a15"
 
 [params]
 

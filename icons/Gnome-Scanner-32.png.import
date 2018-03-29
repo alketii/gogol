@@ -7,7 +7,10 @@ path="res://.import/Gnome-Scanner-32.png-35bec9142f3e246dc7d97be0e18358d0.stex"
 [deps]
 
 source_file="res://icons/Gnome-Scanner-32.png"
+source_md5="2711b52805e9fec875f5c81020fa64e7"
+
 dest_files=[ "res://.import/Gnome-Scanner-32.png-35bec9142f3e246dc7d97be0e18358d0.stex" ]
+dest_md5="d7c17e3a916b2452d3500ad809286bf4"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Media-Playlist-Repeat-32.png-585c8ff467aeac34134a61a14
 [deps]
 
 source_file="res://icons/Gnome-Media-Playlist-Repeat-32.png"
+source_md5="0023f65b1fce0cb73b07d4c95c6f2c30"
+
 dest_files=[ "res://.import/Gnome-Media-Playlist-Repeat-32.png-585c8ff467aeac34134a61a14b925314.stex" ]
+dest_md5="14c56d2d9aef90420a2d2a1f78306e2a"
 
 [params]
 

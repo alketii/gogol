@@ -7,7 +7,10 @@ path="res://.import/Gnome-Document-Page-Setup-32.png-36d13d4441c5177eff2cedf48e5
 [deps]
 
 source_file="res://icons/Gnome-Document-Page-Setup-32.png"
+source_md5="abe0e86c15be19b855c28b31cc318b58"
+
 dest_files=[ "res://.import/Gnome-Document-Page-Setup-32.png-36d13d4441c5177eff2cedf48e580c5c.stex" ]
+dest_md5="db16e2874c43ae90d5e225d0f7f9634c"
 
 [params]
 

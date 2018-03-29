@@ -7,7 +7,10 @@ path="res://.import/Gnome-Format-Text-Direction-Ltr-32.png-05ffc06a17c185314ab8a
 [deps]
 
 source_file="res://icons/Gnome-Format-Text-Direction-Ltr-32.png"
+source_md5="a68c7ca3f7f70150fc586fe836bb4d67"
+
 dest_files=[ "res://.import/Gnome-Format-Text-Direction-Ltr-32.png-05ffc06a17c185314ab8a1075385d1b4.stex" ]
+dest_md5="6b8295834eaece4bc6c7001c1b8a4c73"
 
 [params]
 

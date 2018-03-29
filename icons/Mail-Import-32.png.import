@@ -7,7 +7,10 @@ path="res://.import/Mail-Import-32.png-8243b7f8ca6724c405148f5ac6d0f1fc.stex"
 [deps]
 
 source_file="res://icons/Mail-Import-32.png"
+source_md5="b670109571ed347a4e8365ad3549b225"
+
 dest_files=[ "res://.import/Mail-Import-32.png-8243b7f8ca6724c405148f5ac6d0f1fc.stex" ]
+dest_md5="888fa10c064238b5aa8ffa7d0fea645d"
 
 [params]
 

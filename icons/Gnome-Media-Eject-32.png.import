@@ -7,7 +7,10 @@ path="res://.import/Gnome-Media-Eject-32.png-db3ecb1682f2d509a949ad892112caf4.st
 [deps]
 
 source_file="res://icons/Gnome-Media-Eject-32.png"
+source_md5="04df3ba78c4dc63544860b991b32cdd7"
+
 dest_files=[ "res://.import/Gnome-Media-Eject-32.png-db3ecb1682f2d509a949ad892112caf4.stex" ]
+dest_md5="ef23bf89e90831a3ebc7acff6a1a2fce"
 
 [params]
 

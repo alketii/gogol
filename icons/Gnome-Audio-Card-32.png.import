@@ -7,7 +7,10 @@ path="res://.import/Gnome-Audio-Card-32.png-160c15c3535e39f8f2a0bc03d6e7015d.ste
 [deps]
 
 source_file="res://icons/Gnome-Audio-Card-32.png"
+source_md5="a3c96c1a6dfbad5f54017e9ef5b21576"
+
 dest_files=[ "res://.import/Gnome-Audio-Card-32.png-160c15c3535e39f8f2a0bc03d6e7015d.stex" ]
+dest_md5="188e84dcf01bd6bcf7ceaa68c0d22faf"
 
 [params]
 

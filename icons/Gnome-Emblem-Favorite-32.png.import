@@ -7,7 +7,10 @@ path="res://.import/Gnome-Emblem-Favorite-32.png-60ff43eeab8577552a8921cb72b9c7f
 [deps]
 
 source_file="res://icons/Gnome-Emblem-Favorite-32.png"
+source_md5="76733cce948866b1f572d9db970402cf"
+
 dest_files=[ "res://.import/Gnome-Emblem-Favorite-32.png-60ff43eeab8577552a8921cb72b9c7fe.stex" ]
+dest_md5="844ea81f2fc67d7e9f2797aa0ab07584"
 
 [params]
 

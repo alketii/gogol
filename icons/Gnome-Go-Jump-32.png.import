@@ -7,7 +7,10 @@ path="res://.import/Gnome-Go-Jump-32.png-4e30911e1c80b05352ceddcd8772b37e.stex"
 [deps]
 
 source_file="res://icons/Gnome-Go-Jump-32.png"
+source_md5="6c558a45b27439f857abf2b435939728"
+
 dest_files=[ "res://.import/Gnome-Go-Jump-32.png-4e30911e1c80b05352ceddcd8772b37e.stex" ]
+dest_md5="8abfd9ff9edf136948bf5655799695df"
 
 [params]
 

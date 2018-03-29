@@ -7,7 +7,10 @@ path="res://.import/Gnome-Media-Playback-Start-32.png-520dba8f960bd4eadd82d5ac98
 [deps]
 
 source_file="res://icons/Gnome-Media-Playback-Start-32.png"
+source_md5="e278fcc59d1b94d47b35c36a56ba7af3"
+
 dest_files=[ "res://.import/Gnome-Media-Playback-Start-32.png-520dba8f960bd4eadd82d5ac988ddafa.stex" ]
+dest_md5="f9bd5533031ba424f9c86f119bc4829d"
 
 [params]
 

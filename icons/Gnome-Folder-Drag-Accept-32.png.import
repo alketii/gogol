@@ -7,7 +7,10 @@ path="res://.import/Gnome-Folder-Drag-Accept-32.png-690198de546553067d5f56754ff4
 [deps]
 
 source_file="res://icons/Gnome-Folder-Drag-Accept-32.png"
+source_md5="819f6f99e86113a8b672d21b02927406"
+
 dest_files=[ "res://.import/Gnome-Folder-Drag-Accept-32.png-690198de546553067d5f56754ff4d978.stex" ]
+dest_md5="042f74b2ad6aaa009f67c1ddc87f7602"
 
 [params]
 

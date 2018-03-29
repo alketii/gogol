@@ -7,7 +7,10 @@ path="res://.import/Gnome-Zoom-In-32.png-269c74669564e015d7df0bf5cb6dd62e.stex"
 [deps]
 
 source_file="res://icons/Gnome-Zoom-In-32.png"
+source_md5="812c022d97adb3dee800774f787d2d8b"
+
 dest_files=[ "res://.import/Gnome-Zoom-In-32.png-269c74669564e015d7df0bf5cb6dd62e.stex" ]
+dest_md5="783cd7fca432e929dce2c77a3fbd49c1"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Multimedia-Player-32.png-b443197360613a68ae959f5491035
 [deps]
 
 source_file="res://icons/Gnome-Multimedia-Player-32.png"
+source_md5="8a022b9a66b0f5ca2abb880d84985ba6"
+
 dest_files=[ "res://.import/Gnome-Multimedia-Player-32.png-b443197360613a68ae959f549103572b.stex" ]
+dest_md5="6478870fc3172cc800b448797782aa43"
 
 [params]
 

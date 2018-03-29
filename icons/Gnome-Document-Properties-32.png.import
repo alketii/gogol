@@ -7,7 +7,10 @@ path="res://.import/Gnome-Document-Properties-32.png-b80a862b2dc6ebcfd16bd04af0c
 [deps]
 
 source_file="res://icons/Gnome-Document-Properties-32.png"
+source_md5="b08344ab0193d4aaf54625bab04a5ea8"
+
 dest_files=[ "res://.import/Gnome-Document-Properties-32.png-b80a862b2dc6ebcfd16bd04af0c1f838.stex" ]
+dest_md5="05fede3558d076c23eeb85ca5572b6b2"
 
 [params]
 

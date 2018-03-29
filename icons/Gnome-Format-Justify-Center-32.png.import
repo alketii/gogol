@@ -7,7 +7,10 @@ path="res://.import/Gnome-Format-Justify-Center-32.png-b7360459df283e4760d47d523
 [deps]
 
 source_file="res://icons/Gnome-Format-Justify-Center-32.png"
+source_md5="7d4274e1c2ce207d37195186c0e3021c"
+
 dest_files=[ "res://.import/Gnome-Format-Justify-Center-32.png-b7360459df283e4760d47d523b8ab064.stex" ]
+dest_md5="f46802a238fde71955898b83fe31930a"
 
 [params]
 

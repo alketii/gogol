@@ -7,7 +7,10 @@ path="res://.import/Gnome-Package-X-Generic-32.png-0f4370270def318b644c760949079
 [deps]
 
 source_file="res://icons/Gnome-Package-X-Generic-32.png"
+source_md5="3f4e8d6c0220d5a69114dd96bf08f147"
+
 dest_files=[ "res://.import/Gnome-Package-X-Generic-32.png-0f4370270def318b644c7609490799e8.stex" ]
+dest_md5="e517d12e272402d3de9a06a39d2c8778"
 
 [params]
 

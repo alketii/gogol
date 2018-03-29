@@ -7,7 +7,10 @@ path="res://.import/Gnome-Weather-Snow-32.png-6a26633ee22ab572a2ff5408968b22a1.s
 [deps]
 
 source_file="res://icons/Gnome-Weather-Snow-32.png"
+source_md5="bc0c07d6f20bd46ac9b820105ce478a9"
+
 dest_files=[ "res://.import/Gnome-Weather-Snow-32.png-6a26633ee22ab572a2ff5408968b22a1.stex" ]
+dest_md5="38c2682f5ea98f1d585d84e9b59ed346"
 
 [params]
 

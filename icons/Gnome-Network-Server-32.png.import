@@ -7,7 +7,10 @@ path="res://.import/Gnome-Network-Server-32.png-e03f3452c15b26f8c4e3d50a7d86c322
 [deps]
 
 source_file="res://icons/Gnome-Network-Server-32.png"
+source_md5="680f4bae268d6dea5ad1caadbc26f102"
+
 dest_files=[ "res://.import/Gnome-Network-Server-32.png-e03f3452c15b26f8c4e3d50a7d86c322.stex" ]
+dest_md5="daadffac2f5e97df9d777a2c5e694697"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Drive-Optical-32.png-e76294041f0935cef0eb55062829fd24.
 [deps]
 
 source_file="res://icons/Gnome-Drive-Optical-32.png"
+source_md5="9278e340c197d4c10e629eb50b68c994"
+
 dest_files=[ "res://.import/Gnome-Drive-Optical-32.png-e76294041f0935cef0eb55062829fd24.stex" ]
+dest_md5="faa34b52736143f0c91d8eb786f0ca57"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Applications-Development-32.png-0969dd875d9555f556cf0c
 [deps]
 
 source_file="res://icons/Gnome-Applications-Development-32.png"
+source_md5="0e5beaf41d6032dddf573b5313236d8b"
+
 dest_files=[ "res://.import/Gnome-Applications-Development-32.png-0969dd875d9555f556cf0c00c74fde15.stex" ]
+dest_md5="1d32e1030b446ff9292b6c02e24698ff"
 
 [params]
 

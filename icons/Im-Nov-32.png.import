@@ -7,7 +7,10 @@ path="res://.import/Im-Nov-32.png-a759c60203319ef3f167bf4ffc2e8657.stex"
 [deps]
 
 source_file="res://icons/Im-Nov-32.png"
+source_md5="789782bb180b584fcb22dcc94dfd7abd"
+
 dest_files=[ "res://.import/Im-Nov-32.png-a759c60203319ef3f167bf4ffc2e8657.stex" ]
+dest_md5="42f9619d740c94a980946325de238805"
 
 [params]
 

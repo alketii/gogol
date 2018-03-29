@@ -7,7 +7,10 @@ path="res://.import/Gnome-Network-Error-32.png-25c5138248c90d7485e59740762e08d0.
 [deps]
 
 source_file="res://icons/Gnome-Network-Error-32.png"
+source_md5="00fd6a8402d1786fd431919a12358f45"
+
 dest_files=[ "res://.import/Gnome-Network-Error-32.png-25c5138248c90d7485e59740762e08d0.stex" ]
+dest_md5="fd097eb2d282a0609fe49befb6d8bc71"
 
 [params]
 

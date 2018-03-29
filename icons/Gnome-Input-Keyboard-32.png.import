@@ -7,7 +7,10 @@ path="res://.import/Gnome-Input-Keyboard-32.png-35932198a6b1e1472f0bae39617b567a
 [deps]
 
 source_file="res://icons/Gnome-Input-Keyboard-32.png"
+source_md5="3ee19d0d8f672b770d3f278957795ab4"
+
 dest_files=[ "res://.import/Gnome-Input-Keyboard-32.png-35932198a6b1e1472f0bae39617b567a.stex" ]
+dest_md5="80e52558af98aa2366f43410378173e4"
 
 [params]
 

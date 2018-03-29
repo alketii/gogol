@@ -7,7 +7,10 @@ path="res://.import/Gnome-Face-Plain-32.png-fbf0ed83c03ac203f763ac5808c9b9b5.ste
 [deps]
 
 source_file="res://icons/Gnome-Face-Plain-32.png"
+source_md5="80002d4b5c74ca3f82ff81011a136475"
+
 dest_files=[ "res://.import/Gnome-Face-Plain-32.png-fbf0ed83c03ac203f763ac5808c9b9b5.stex" ]
+dest_md5="b94412bf65593e307a83934492f6456d"
 
 [params]
 

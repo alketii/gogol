@@ -7,7 +7,10 @@ path="res://.import/icon_64.png-67a947b3ec4aecd6e0748579a84f9966.stex"
 [deps]
 
 source_file="res://objects/kenney_platformer/grass/icon_64.png"
+source_md5="90bd9c1be67b53390cbd4d5de2535cd5"
+
 dest_files=[ "res://.import/icon_64.png-67a947b3ec4aecd6e0748579a84f9966.stex" ]
+dest_md5="3b202c84eac356b112585db78dfd522c"
 
 [params]
 

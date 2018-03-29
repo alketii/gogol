@@ -7,7 +7,10 @@ path="res://.import/Gnome-Colors-Emblem-Desktop-Orange-32.png-af23dee9ebb0eb7e89
 [deps]
 
 source_file="res://icons/Gnome-Colors-Emblem-Desktop-Orange-32.png"
+source_md5="6612f5b6a26dc0d81f08fbdfeafd865f"
+
 dest_files=[ "res://.import/Gnome-Colors-Emblem-Desktop-Orange-32.png-af23dee9ebb0eb7e894093167dd6f4a9.stex" ]
+dest_md5="4d905523b378211811d3186f7164d71f"
 
 [params]
 

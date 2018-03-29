@@ -7,7 +7,10 @@ path="res://.import/Gnome-Go-Last-32.png-02ca6892928f00be6983761f2e53aabd.stex"
 [deps]
 
 source_file="res://icons/Gnome-Go-Last-32.png"
+source_md5="2f4c067dda853d1cae0ff7c623826ab3"
+
 dest_files=[ "res://.import/Gnome-Go-Last-32.png-02ca6892928f00be6983761f2e53aabd.stex" ]
+dest_md5="81ffff31f6fa4052eaefc53462f46607"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Application-X-Executable-32.png-2f176fa1db578983cb57e8
 [deps]
 
 source_file="res://icons/Gnome-Application-X-Executable-32.png"
+source_md5="7c1c839d1f50b7691f85521ab75d39c9"
+
 dest_files=[ "res://.import/Gnome-Application-X-Executable-32.png-2f176fa1db578983cb57e8b358721303.stex" ]
+dest_md5="eb0f32cc9fb83127d3b8ed233d5a6fe7"
 
 [params]
 

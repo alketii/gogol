@@ -7,7 +7,10 @@ path="res://.import/Gnome-X-Office-Calendar-32.png-e3e1ddf53c6a19d05b88bb375a28c
 [deps]
 
 source_file="res://icons/Gnome-X-Office-Calendar-32.png"
+source_md5="459b2b6ef3a7082c11a6800ceb6fa2d3"
+
 dest_files=[ "res://.import/Gnome-X-Office-Calendar-32.png-e3e1ddf53c6a19d05b88bb375a28cd56.stex" ]
+dest_md5="2e7053a5fa8389bbdbb3b6a8d1a5b4eb"
 
 [params]
 

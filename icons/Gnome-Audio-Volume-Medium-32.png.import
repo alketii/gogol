@@ -7,7 +7,10 @@ path="res://.import/Gnome-Audio-Volume-Medium-32.png-af1823db7f1d49bf8c8bc2e5fbd
 [deps]
 
 source_file="res://icons/Gnome-Audio-Volume-Medium-32.png"
+source_md5="ab59b99e55d9a591e665a80160f415c5"
+
 dest_files=[ "res://.import/Gnome-Audio-Volume-Medium-32.png-af1823db7f1d49bf8c8bc2e5fbdf964d.stex" ]
+dest_md5="5b22fa9940d337a5d6354cbbfe8cc1ef"
 
 [params]
 

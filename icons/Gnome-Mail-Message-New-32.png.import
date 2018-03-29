@@ -7,7 +7,10 @@ path="res://.import/Gnome-Mail-Message-New-32.png-fde7a2129aa956926c472056e03b82
 [deps]
 
 source_file="res://icons/Gnome-Mail-Message-New-32.png"
+source_md5="592db637fb395a3049cdec62c9927c08"
+
 dest_files=[ "res://.import/Gnome-Mail-Message-New-32.png-fde7a2129aa956926c472056e03b8200.stex" ]
+dest_md5="c94a07540e40dffa1de5aa290689ca78"
 
 [params]
 

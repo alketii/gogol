@@ -7,7 +7,10 @@ path="res://.import/Gnome-Mail-Forward-32.png-156273114f58ca8b5884b42cf6904813.s
 [deps]
 
 source_file="res://icons/Gnome-Mail-Forward-32.png"
+source_md5="fb832da273bbb08797c2014e9641971a"
+
 dest_files=[ "res://.import/Gnome-Mail-Forward-32.png-156273114f58ca8b5884b42cf6904813.stex" ]
+dest_md5="a02b86bccc3cccb0fba61cb13e82370b"
 
 [params]
 

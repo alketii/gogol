@@ -7,7 +7,10 @@ path="res://.import/Add-Files-To-Archive-32.png-90aca273efb701a41a5becca6db4ab3b
 [deps]
 
 source_file="res://icons/Add-Files-To-Archive-32.png"
+source_md5="821597898e2a06984e562c73bd95e596"
+
 dest_files=[ "res://.import/Add-Files-To-Archive-32.png-90aca273efb701a41a5becca6db4ab3b.stex" ]
+dest_md5="aab8c6c93b6d3fc2c0a1a91dcaf56479"
 
 [params]
 

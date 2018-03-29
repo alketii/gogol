@@ -7,7 +7,10 @@ path="res://.import/Gnome-Computer-32.png-29d3f7cab97562829b03df9bb8f57704.stex"
 [deps]
 
 source_file="res://icons/Gnome-Computer-32.png"
+source_md5="41671ee7ef4fde5872703dd5600cfbe7"
+
 dest_files=[ "res://.import/Gnome-Computer-32.png-29d3f7cab97562829b03df9bb8f57704.stex" ]
+dest_md5="d953b3a0422aab755bdf195c4da1c584"
 
 [params]
 

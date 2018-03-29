@@ -7,7 +7,10 @@ path="res://.import/Gnome-Audio-Input-Microphone-32.png-a3fd8caf9835802b4b641451
 [deps]
 
 source_file="res://icons/Gnome-Audio-Input-Microphone-32.png"
+source_md5="0f7235c0355c0c544a146526dad2b60b"
+
 dest_files=[ "res://.import/Gnome-Audio-Input-Microphone-32.png-a3fd8caf9835802b4b6414512129ca2c.stex" ]
+dest_md5="7e3bed071f68f9bab5654d57746f3680"
 
 [params]
 

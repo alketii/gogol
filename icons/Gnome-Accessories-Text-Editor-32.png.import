@@ -7,7 +7,10 @@ path="res://.import/Gnome-Accessories-Text-Editor-32.png-565ae3ddd33f6301499f982
 [deps]
 
 source_file="res://icons/Gnome-Accessories-Text-Editor-32.png"
+source_md5="08a87721e8588911cea2f83b53161fa3"
+
 dest_files=[ "res://.import/Gnome-Accessories-Text-Editor-32.png-565ae3ddd33f6301499f982208557771.stex" ]
+dest_md5="5b559f22cd7d2b7cf77e831d0c76b594"
 
 [params]
 

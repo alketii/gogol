@@ -7,7 +7,10 @@ path="res://.import/Gnome-Battery-Caution-32.png-c2f89a5d6dfb09156ad73345ac61025
 [deps]
 
 source_file="res://icons/Gnome-Battery-Caution-32.png"
+source_md5="a2e2807306fea5ae48f969f48dad8f89"
+
 dest_files=[ "res://.import/Gnome-Battery-Caution-32.png-c2f89a5d6dfb09156ad73345ac610258.stex" ]
+dest_md5="4a938d7901371e4b9128270dbe7f5314"
 
 [params]
 

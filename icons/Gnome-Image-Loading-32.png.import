@@ -7,7 +7,10 @@ path="res://.import/Gnome-Image-Loading-32.png-65cd131897244bac5bdfb1254c50cd37.
 [deps]
 
 source_file="res://icons/Gnome-Image-Loading-32.png"
+source_md5="f5fed0f28a621dcd1cafbdb984bad1da"
+
 dest_files=[ "res://.import/Gnome-Image-Loading-32.png-65cd131897244bac5bdfb1254c50cd37.stex" ]
+dest_md5="36ccab976088160c87c874495a99c224"
 
 [params]
 

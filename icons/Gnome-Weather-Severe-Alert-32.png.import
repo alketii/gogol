@@ -7,7 +7,10 @@ path="res://.import/Gnome-Weather-Severe-Alert-32.png-0c18b1aefe14c2ab7d2093bfab
 [deps]
 
 source_file="res://icons/Gnome-Weather-Severe-Alert-32.png"
+source_md5="4bda1eb3ff5f03d345846558aab9e0fe"
+
 dest_files=[ "res://.import/Gnome-Weather-Severe-Alert-32.png-0c18b1aefe14c2ab7d2093bfab60bc8f.stex" ]
+dest_md5="bd5d6e164dbc72b7a4b1ec6cda8c6965"
 
 [params]
 

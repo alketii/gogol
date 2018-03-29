@@ -7,7 +7,10 @@ path="res://.import/Gnome-Appointment-Soon-32.png-5d861f18970452b17e8a723f94dba0
 [deps]
 
 source_file="res://icons/Gnome-Appointment-Soon-32.png"
+source_md5="abb063285bed7aae63b4c20d11f498cc"
+
 dest_files=[ "res://.import/Gnome-Appointment-Soon-32.png-5d861f18970452b17e8a723f94dba04d.stex" ]
+dest_md5="0c2fe6b036bb0bc91fb053e919e8adeb"
 
 [params]
 

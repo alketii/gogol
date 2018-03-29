@@ -7,7 +7,10 @@ path="res://.import/Gnome-Emblem-Symbolic-Link-32.png-5a00274812006c0576a4f10ae7
 [deps]
 
 source_file="res://icons/Gnome-Emblem-Symbolic-Link-32.png"
+source_md5="00b4e884c5a902d5ed18779b61170430"
+
 dest_files=[ "res://.import/Gnome-Emblem-Symbolic-Link-32.png-5a00274812006c0576a4f10ae76f86fa.stex" ]
+dest_md5="c390d95ab7194b76adb29116a1331819"
 
 [params]
 

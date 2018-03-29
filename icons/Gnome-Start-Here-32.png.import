@@ -7,7 +7,10 @@ path="res://.import/Gnome-Start-Here-32.png-5d528ff6ec43747101fb5f5a2a034169.ste
 [deps]
 
 source_file="res://icons/Gnome-Start-Here-32.png"
+source_md5="1777145d6cd03e57ab596944b8d94c14"
+
 dest_files=[ "res://.import/Gnome-Start-Here-32.png-5d528ff6ec43747101fb5f5a2a034169.stex" ]
+dest_md5="72cdddb6844387a26b941f7fbe78f44e"
 
 [params]
 

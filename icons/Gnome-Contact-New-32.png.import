@@ -7,7 +7,10 @@ path="res://.import/Gnome-Contact-New-32.png-04fe5b5237e8508dbda79fbba9cc62f6.st
 [deps]
 
 source_file="res://icons/Gnome-Contact-New-32.png"
+source_md5="459228d5535363f50df5f7caf4855f1c"
+
 dest_files=[ "res://.import/Gnome-Contact-New-32.png-04fe5b5237e8508dbda79fbba9cc62f6.stex" ]
+dest_md5="a97a8e00a87fce1e3df934aba8bafafa"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/icon_24.png-f390083fc2afe954262f527a100a23e0.stex"
 [deps]
 
 source_file="res://objects/kenney_space_shooter/ship_1/icon_24.png"
+source_md5="2d21e992992ec19754a33c84bf0fc6f6"
+
 dest_files=[ "res://.import/icon_24.png-f390083fc2afe954262f527a100a23e0.stex" ]
+dest_md5="0191c2d4cc681913987deba2b259ac4e"
 
 [params]
 

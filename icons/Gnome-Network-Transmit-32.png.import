@@ -7,7 +7,10 @@ path="res://.import/Gnome-Network-Transmit-32.png-73be52dd2c6e047bb1af80afdea111
 [deps]
 
 source_file="res://icons/Gnome-Network-Transmit-32.png"
+source_md5="c4b89008049576ae0341987fb4040aab"
+
 dest_files=[ "res://.import/Gnome-Network-Transmit-32.png-73be52dd2c6e047bb1af80afdea11182.stex" ]
+dest_md5="7fc07c4888e7c51e80b94f97e23ed1ad"
 
 [params]
 

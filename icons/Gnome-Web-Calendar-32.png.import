@@ -7,7 +7,10 @@ path="res://.import/Gnome-Web-Calendar-32.png-a920b910410afc25e13e5b4dd65c895e.s
 [deps]
 
 source_file="res://icons/Gnome-Web-Calendar-32.png"
+source_md5="f868141f6d1aacc1cf3f8eedc5cc62bd"
+
 dest_files=[ "res://.import/Gnome-Web-Calendar-32.png-a920b910410afc25e13e5b4dd65c895e.stex" ]
+dest_md5="e32fadb528f99a8e468c0697b4ba0d01"
 
 [params]
 

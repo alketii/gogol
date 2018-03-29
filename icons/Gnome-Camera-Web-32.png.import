@@ -7,7 +7,10 @@ path="res://.import/Gnome-Camera-Web-32.png-bc4bfbbedc79eb2237993892fa0b48cd.ste
 [deps]
 
 source_file="res://icons/Gnome-Camera-Web-32.png"
+source_md5="bccb8610a1229a3d7ad9bd09a94e99ba"
+
 dest_files=[ "res://.import/Gnome-Camera-Web-32.png-bc4bfbbedc79eb2237993892fa0b48cd.stex" ]
+dest_md5="839309229c93a1dc1183aed52b84e206"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/icon_24.png-93d0887e37109842d330670385f568b3.stex"
 [deps]
 
 source_file="res://objects/kenney_space_shooter/laser_green/icon_24.png"
+source_md5="da2cdc694b6fdf378c3be10393ce72ca"
+
 dest_files=[ "res://.import/icon_24.png-93d0887e37109842d330670385f568b3.stex" ]
+dest_md5="0a691af404c5e306eb535666cbb8df92"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Logviewer-32.png-43dc31775df14ec1b6fe7b110dd82428.stex
 [deps]
 
 source_file="res://icons/Gnome-Logviewer-32.png"
+source_md5="5e3e152d35ffa8104a99dc4a6e9de063"
+
 dest_files=[ "res://.import/Gnome-Logviewer-32.png-43dc31775df14ec1b6fe7b110dd82428.stex" ]
+dest_md5="29e8782b32e372ce5c9ff63b62d65a35"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Undelete-32.png-d4055cc97c1e08536e60c91eff797b19.stex"
 [deps]
 
 source_file="res://icons/Gnome-Undelete-32.png"
+source_md5="2beb97a7dfdb026c189cbf79aece6efc"
+
 dest_files=[ "res://.import/Gnome-Undelete-32.png-d4055cc97c1e08536e60c91eff797b19.stex" ]
+dest_md5="4980913823ac0d8b7cd6298560cc63da"
 
 [params]
 

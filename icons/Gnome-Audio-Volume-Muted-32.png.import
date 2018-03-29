@@ -7,7 +7,10 @@ path="res://.import/Gnome-Audio-Volume-Muted-32.png-1dcd4f3fd3a1e5d9bb869a541f9d
 [deps]
 
 source_file="res://icons/Gnome-Audio-Volume-Muted-32.png"
+source_md5="47abca129634bbf34fee48efb841641d"
+
 dest_files=[ "res://.import/Gnome-Audio-Volume-Muted-32.png-1dcd4f3fd3a1e5d9bb869a541f9da602.stex" ]
+dest_md5="6da9f3b5e6c34dac16be673f0fd96ce2"
 
 [params]
 

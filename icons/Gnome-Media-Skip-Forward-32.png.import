@@ -7,7 +7,10 @@ path="res://.import/Gnome-Media-Skip-Forward-32.png-f100f0aced9fc62f431a3ca9fcb8
 [deps]
 
 source_file="res://icons/Gnome-Media-Skip-Forward-32.png"
+source_md5="6779a90ff11f0ce13a6f74a77c1b25ba"
+
 dest_files=[ "res://.import/Gnome-Media-Skip-Forward-32.png-f100f0aced9fc62f431a3ca9fcb8b883.stex" ]
+dest_md5="93a69dc1e2acc1c47c1ccc790228d2e6"
 
 [params]
 

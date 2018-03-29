@@ -7,7 +7,10 @@ path="res://.import/Gnome-Video-Display-32.png-4c116b9b0a507fc4d19560e56230ada0.
 [deps]
 
 source_file="res://icons/Gnome-Video-Display-32.png"
+source_md5="7fe28f38f4450aff48f9770a5ab1088f"
+
 dest_files=[ "res://.import/Gnome-Video-Display-32.png-4c116b9b0a507fc4d19560e56230ada0.stex" ]
+dest_md5="7f1c4fbfaa3a417bbc7126153ce4a4f8"
 
 [params]
 

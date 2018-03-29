@@ -7,7 +7,10 @@ path="res://.import/Gnome-Camera-Video-32.png-2bfa149aed813c45bb0bbce3071f7d05.s
 [deps]
 
 source_file="res://icons/Gnome-Camera-Video-32.png"
+source_md5="51be1b23019e9ec42a8794d27f6a7044"
+
 dest_files=[ "res://.import/Gnome-Camera-Video-32.png-2bfa149aed813c45bb0bbce3071f7d05.stex" ]
+dest_md5="e57eed8645b0f926a606d42c9c05dc85"
 
 [params]
 

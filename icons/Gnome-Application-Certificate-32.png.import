@@ -7,7 +7,10 @@ path="res://.import/Gnome-Application-Certificate-32.png-9b91ced3ee00f618cc0662d
 [deps]
 
 source_file="res://icons/Gnome-Application-Certificate-32.png"
+source_md5="669cd683a52a2fb1177585e70122235f"
+
 dest_files=[ "res://.import/Gnome-Application-Certificate-32.png-9b91ced3ee00f618cc0662d2498f7084.stex" ]
+dest_md5="11fab0d943d2f58cc2c2787ef915a3fa"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Preferences-Desktop-Keyboard-Shortcuts-32.png-3541c4ff
 [deps]
 
 source_file="res://icons/Gnome-Preferences-Desktop-Keyboard-Shortcuts-32.png"
+source_md5="cfbb846c23e9f6b426f518163c302823"
+
 dest_files=[ "res://.import/Gnome-Preferences-Desktop-Keyboard-Shortcuts-32.png-3541c4ff6853d01653341ba8cdba38d3.stex" ]
+dest_md5="d90ee9be78a6ca1631a6451e8d9bec3a"
 
 [params]
 

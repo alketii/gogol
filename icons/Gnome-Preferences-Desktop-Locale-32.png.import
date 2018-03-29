@@ -7,7 +7,10 @@ path="res://.import/Gnome-Preferences-Desktop-Locale-32.png-7288dc82c6a83b3ab2db
 [deps]
 
 source_file="res://icons/Gnome-Preferences-Desktop-Locale-32.png"
+source_md5="e4d99e27d3717d0cf28738789eec96c4"
+
 dest_files=[ "res://.import/Gnome-Preferences-Desktop-Locale-32.png-7288dc82c6a83b3ab2db8e69c779fab5.stex" ]
+dest_md5="4e27fb60145f6185a965f808fa8c4391"
 
 [params]
 

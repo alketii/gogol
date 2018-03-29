@@ -7,7 +7,10 @@ path="res://.import/Gnome-Format-Text-Strikethrough-32.png-bd72f1d5ed3b1aeed3074
 [deps]
 
 source_file="res://icons/Gnome-Format-Text-Strikethrough-32.png"
+source_md5="fa14b764de7d1ba23ee286363f74945f"
+
 dest_files=[ "res://.import/Gnome-Format-Text-Strikethrough-32.png-bd72f1d5ed3b1aeed3074e0b2737909b.stex" ]
+dest_md5="e28b77f72ed74c104de0ebbbdedc855e"
 
 [params]
 

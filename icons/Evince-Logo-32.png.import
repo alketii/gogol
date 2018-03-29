@@ -7,7 +7,10 @@ path="res://.import/Evince-Logo-32.png-f8a193062c416ba8b700827c60812f8b.stex"
 [deps]
 
 source_file="res://icons/Evince-Logo-32.png"
+source_md5="8d6433e58157f7a569f911772f2b5084"
+
 dest_files=[ "res://.import/Evince-Logo-32.png-f8a193062c416ba8b700827c60812f8b.stex" ]
+dest_md5="852394ffe20457b70d1df063eb9c558f"
 
 [params]
 

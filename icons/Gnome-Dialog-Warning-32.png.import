@@ -7,7 +7,10 @@ path="res://.import/Gnome-Dialog-Warning-32.png-8191c17f590bef2efbf2e7edc7fddf67
 [deps]
 
 source_file="res://icons/Gnome-Dialog-Warning-32.png"
+source_md5="ceac5ad783f9dcac660ac803da754859"
+
 dest_files=[ "res://.import/Gnome-Dialog-Warning-32.png-8191c17f590bef2efbf2e7edc7fddf67.stex" ]
+dest_md5="74698960f47f3bffc9a05b22da0a7c83"
 
 [params]
 

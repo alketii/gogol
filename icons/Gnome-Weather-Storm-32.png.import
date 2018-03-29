@@ -7,7 +7,10 @@ path="res://.import/Gnome-Weather-Storm-32.png-b327e2638c4f438c1f3af9ca460703ee.
 [deps]
 
 source_file="res://icons/Gnome-Weather-Storm-32.png"
+source_md5="4c301439f7495badc36f29462cd4b19d"
+
 dest_files=[ "res://.import/Gnome-Weather-Storm-32.png-b327e2638c4f438c1f3af9ca460703ee.stex" ]
+dest_md5="17ce3ab1667de3a03563605102ae19d1"
 
 [params]
 

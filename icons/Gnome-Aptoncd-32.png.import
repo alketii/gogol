@@ -7,7 +7,10 @@ path="res://.import/Gnome-Aptoncd-32.png-604368db327d358f501d59fcc319e492.stex"
 [deps]
 
 source_file="res://icons/Gnome-Aptoncd-32.png"
+source_md5="942f1bea3dd0d58ecb8711b28018fb1e"
+
 dest_files=[ "res://.import/Gnome-Aptoncd-32.png-604368db327d358f501d59fcc319e492.stex" ]
+dest_md5="5140e6515ec817d66ae94a8b58177725"
 
 [params]
 

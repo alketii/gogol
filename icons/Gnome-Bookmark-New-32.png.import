@@ -7,7 +7,10 @@ path="res://.import/Gnome-Bookmark-New-32.png-8d8207e751d13053e7536bc32ce21106.s
 [deps]
 
 source_file="res://icons/Gnome-Bookmark-New-32.png"
+source_md5="3ef61631d8c55f22c3e96117bd1137f7"
+
 dest_files=[ "res://.import/Gnome-Bookmark-New-32.png-8d8207e751d13053e7536bc32ce21106.stex" ]
+dest_md5="2112f126b3abe5b1a7842614151c730a"
 
 [params]
 

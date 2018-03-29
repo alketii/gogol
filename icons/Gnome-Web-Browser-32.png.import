@@ -7,7 +7,10 @@ path="res://.import/Gnome-Web-Browser-32.png-1fcaff3f9bf07a52e09252c775557493.st
 [deps]
 
 source_file="res://icons/Gnome-Web-Browser-32.png"
+source_md5="6b078d6ae5cbf937ed49f669bb1f214f"
+
 dest_files=[ "res://.import/Gnome-Web-Browser-32.png-1fcaff3f9bf07a52e09252c775557493.stex" ]
+dest_md5="c88ea6ca21b56c8f564e29b88bed7251"
 
 [params]
 

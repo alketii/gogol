@@ -7,7 +7,10 @@ path="res://.import/Gnome-Edit-Redo-32.png-c37e4fe0789efe9507267268b9853348.stex
 [deps]
 
 source_file="res://icons/Gnome-Edit-Redo-32.png"
+source_md5="8a83bb8cffd95c67ce18e0a2dea09d23"
+
 dest_files=[ "res://.import/Gnome-Edit-Redo-32.png-c37e4fe0789efe9507267268b9853348.stex" ]
+dest_md5="9b46422322dd8429e95fe2baef541622"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Help-Browser-32.png-6999083df0e7056d7cea2b38d96f43c9.s
 [deps]
 
 source_file="res://icons/Gnome-Help-Browser-32.png"
+source_md5="dc0ee7e94b727a5127e86f7368d8abaf"
+
 dest_files=[ "res://.import/Gnome-Help-Browser-32.png-6999083df0e7056d7cea2b38d96f43c9.stex" ]
+dest_md5="90dd517bdeecf96aa6c293993850d97f"
 
 [params]
 

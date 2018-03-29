@@ -7,7 +7,10 @@ path="res://.import/Gnome-User-Trash-Full-32.png-5d2e8b11816493cbe748e33fe233985
 [deps]
 
 source_file="res://icons/Gnome-User-Trash-Full-32.png"
+source_md5="493d1a5f3fc6a7c67555030ec18fa8ea"
+
 dest_files=[ "res://.import/Gnome-User-Trash-Full-32.png-5d2e8b11816493cbe748e33fe2339851.stex" ]
+dest_md5="a55075fd9d94938344ffffe1dbf15ac4"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Mail-Mark-Important-32.png-1ac82c26f161f195e9541020103
 [deps]
 
 source_file="res://icons/Gnome-Mail-Mark-Important-32.png"
+source_md5="2565a357a3f91e6bbb7a5c8c3c1b3b92"
+
 dest_files=[ "res://.import/Gnome-Mail-Mark-Important-32.png-1ac82c26f161f195e9541020103d1666.stex" ]
+dest_md5="8575a10e8039a2d57b3d91d4210d10b4"
 
 [params]
 

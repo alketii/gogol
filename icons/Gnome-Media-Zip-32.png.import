@@ -7,7 +7,10 @@ path="res://.import/Gnome-Media-Zip-32.png-ebf5e946e033394e92d5e0ed1be7c2de.stex
 [deps]
 
 source_file="res://icons/Gnome-Media-Zip-32.png"
+source_md5="504e57feb5a55daa00a1f5d7f2e3a1cb"
+
 dest_files=[ "res://.import/Gnome-Media-Zip-32.png-ebf5e946e033394e92d5e0ed1be7c2de.stex" ]
+dest_md5="4b036d45d00c030a042a8756c7c9fc81"
 
 [params]
 

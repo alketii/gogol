@@ -7,7 +7,10 @@ path="res://.import/Gnome-Media-Seek-Forward-32.png-9a79febfa3b380dab287ee5e7b4e
 [deps]
 
 source_file="res://icons/Gnome-Media-Seek-Forward-32.png"
+source_md5="a7f33e397d6aadf27249ce5e7035319f"
+
 dest_files=[ "res://.import/Gnome-Media-Seek-Forward-32.png-9a79febfa3b380dab287ee5e7b4e086c.stex" ]
+dest_md5="b70703a51b103a77b64ca07971ef20e1"
 
 [params]
 

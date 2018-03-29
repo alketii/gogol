@@ -7,7 +7,10 @@ path="res://.import/Gnome-Media-Playlist-Shuffle-32.png-ace1a72247157efecbe250c1
 [deps]
 
 source_file="res://icons/Gnome-Media-Playlist-Shuffle-32.png"
+source_md5="8da68688c9a564c79e34ba40e0391545"
+
 dest_files=[ "res://.import/Gnome-Media-Playlist-Shuffle-32.png-ace1a72247157efecbe250c10efbefee.stex" ]
+dest_md5="51ee16d3d968decee412a9203821c834"
 
 [params]
 

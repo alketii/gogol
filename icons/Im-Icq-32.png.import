@@ -7,7 +7,10 @@ path="res://.import/Im-Icq-32.png-f97d4b073315b5284ddc258afd2a7274.stex"
 [deps]
 
 source_file="res://icons/Im-Icq-32.png"
+source_md5="8f547c752486ef9f41988ac8e8f76ab1"
+
 dest_files=[ "res://.import/Im-Icq-32.png-f97d4b073315b5284ddc258afd2a7274.stex" ]
+dest_md5="c2649c8a1ac36eafa01e31f84ab4f65d"
 
 [params]
 

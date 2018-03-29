@@ -7,7 +7,10 @@ path="res://.import/Gnome-Object-Flip-Horizontal-32.png-30aefb69da6be2450c0251a7
 [deps]
 
 source_file="res://icons/Gnome-Object-Flip-Horizontal-32.png"
+source_md5="f0863d22b5b43febda50d0bb0cee400b"
+
 dest_files=[ "res://.import/Gnome-Object-Flip-Horizontal-32.png-30aefb69da6be2450c0251a7305436be.stex" ]
+dest_md5="3f6985dae377a5fe6092b2f62c7a4453"
 
 [params]
 

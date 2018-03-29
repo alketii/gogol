@@ -7,7 +7,10 @@ path="res://.import/Gnome-Format-Text-Italic-32.png-cf3514550526cb39ea3d38ca42c5
 [deps]
 
 source_file="res://icons/Gnome-Format-Text-Italic-32.png"
+source_md5="71ee49874004d6780a41240e28dd4939"
+
 dest_files=[ "res://.import/Gnome-Format-Text-Italic-32.png-cf3514550526cb39ea3d38ca42c55e3e.stex" ]
+dest_md5="4c52247d3a1fd3bf7cfe0ca1dd45fbbe"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Im-Msn-32.png-b6cd80f5112f6efde3a979d449f63116.stex"
 [deps]
 
 source_file="res://icons/Im-Msn-32.png"
+source_md5="78b7484ed5e33b1d61cd4a92a3186bf0"
+
 dest_files=[ "res://.import/Im-Msn-32.png-b6cd80f5112f6efde3a979d449f63116.stex" ]
+dest_md5="9197f4f8f310b654ac2443066a4f599d"
 
 [params]
 

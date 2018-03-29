@@ -7,7 +7,10 @@ path="res://.import/Gnome-Colors-Emblem-Green-32.png-df9f89a390c71b73e6dfd79e2e4
 [deps]
 
 source_file="res://icons/Gnome-Colors-Emblem-Green-32.png"
+source_md5="8116114e2700a03493f93a3187f164b2"
+
 dest_files=[ "res://.import/Gnome-Colors-Emblem-Green-32.png-df9f89a390c71b73e6dfd79e2e400783.stex" ]
+dest_md5="599b294a8e10e3eb0e315c98aded88e6"
 
 [params]
 

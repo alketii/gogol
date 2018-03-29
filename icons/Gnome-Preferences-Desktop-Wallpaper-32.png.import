@@ -7,7 +7,10 @@ path="res://.import/Gnome-Preferences-Desktop-Wallpaper-32.png-47dd6d6c5f529d32e
 [deps]
 
 source_file="res://icons/Gnome-Preferences-Desktop-Wallpaper-32.png"
+source_md5="ef7967e8dcaca9ad4d113917f8ee7f82"
+
 dest_files=[ "res://.import/Gnome-Preferences-Desktop-Wallpaper-32.png-47dd6d6c5f529d32e018102425961ce7.stex" ]
+dest_md5="0ef7d97b38a810b400cd59b044904afe"
 
 [params]
 

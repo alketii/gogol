@@ -7,7 +7,10 @@ path="res://.import/icon_64.png-25ee528e3129d379d71c2f1723e84105.stex"
 [deps]
 
 source_file="res://objects/kenney_platformer/coin_gold/icon_64.png"
+source_md5="422a73f4ae18402a5c51aadf05f1771d"
+
 dest_files=[ "res://.import/icon_64.png-25ee528e3129d379d71c2f1723e84105.stex" ]
+dest_md5="8ca40db693a55ede5804d7bed66c7b62"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-View-Refresh-32.png-88a0cfaff86ef97b94fb82b3c144a05a.s
 [deps]
 
 source_file="res://icons/Gnome-View-Refresh-32.png"
+source_md5="0d38083188bf2f878310f44f5de7be6a"
+
 dest_files=[ "res://.import/Gnome-View-Refresh-32.png-88a0cfaff86ef97b94fb82b3c144a05a.stex" ]
+dest_md5="631eae86bbdd253dd96d04390b72432b"
 
 [params]
 

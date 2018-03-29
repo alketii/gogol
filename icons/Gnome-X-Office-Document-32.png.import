@@ -7,7 +7,10 @@ path="res://.import/Gnome-X-Office-Document-32.png-2cc65c57281dd6e6c5e27db770413
 [deps]
 
 source_file="res://icons/Gnome-X-Office-Document-32.png"
+source_md5="1661fb5d52fdb197af761c7027b95514"
+
 dest_files=[ "res://.import/Gnome-X-Office-Document-32.png-2cc65c57281dd6e6c5e27db7704133e5.stex" ]
+dest_md5="e66b17d40221694709d658ec1dbca776"
 
 [params]
 

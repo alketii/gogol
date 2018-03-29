@@ -7,7 +7,10 @@ path="res://.import/Gnome-Stock-Person-32.png-afa6a242d691017b850954365d081732.s
 [deps]
 
 source_file="res://icons/Gnome-Stock-Person-32.png"
+source_md5="96e422cb9d5e2eacbe49abed1aff344f"
+
 dest_files=[ "res://.import/Gnome-Stock-Person-32.png-afa6a242d691017b850954365d081732.stex" ]
+dest_md5="ad49c6da51e9b7b13b74ff7b9901147b"
 
 [params]
 

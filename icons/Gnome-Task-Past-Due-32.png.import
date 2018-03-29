@@ -7,7 +7,10 @@ path="res://.import/Gnome-Task-Past-Due-32.png-c7492adc65610bdd2601f470a58a9175.
 [deps]
 
 source_file="res://icons/Gnome-Task-Past-Due-32.png"
+source_md5="e8e81d346358da1a51095d715c88c199"
+
 dest_files=[ "res://.import/Gnome-Task-Past-Due-32.png-c7492adc65610bdd2601f470a58a9175.stex" ]
+dest_md5="f9d9498f170e1d60c3d34d1181e03bae"
 
 [params]
 

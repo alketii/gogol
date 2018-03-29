@@ -7,7 +7,10 @@ path="res://.import/Gnome-Face-Angel-32.png-3cc5819c439b979d12aa57e08c2f28e0.ste
 [deps]
 
 source_file="res://icons/Gnome-Face-Angel-32.png"
+source_md5="ab5646f796908eb7bbf541f77decf085"
+
 dest_files=[ "res://.import/Gnome-Face-Angel-32.png-3cc5819c439b979d12aa57e08c2f28e0.stex" ]
+dest_md5="a5e583da1175afacf664eeba56552af1"
 
 [params]
 

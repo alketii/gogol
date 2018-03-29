@@ -7,7 +7,10 @@ path="res://.import/Gnome-Edit-Paste-32.png-04845fb552379af930178dab8dfa512b.ste
 [deps]
 
 source_file="res://icons/Gnome-Edit-Paste-32.png"
+source_md5="bca0d60606a52566d28025b589991a6c"
+
 dest_files=[ "res://.import/Gnome-Edit-Paste-32.png-04845fb552379af930178dab8dfa512b.stex" ]
+dest_md5="86bad27cbde5e23890a6c3076ee9f823"
 
 [params]
 

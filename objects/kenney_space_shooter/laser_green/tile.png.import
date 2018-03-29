@@ -7,7 +7,10 @@ path="res://.import/tile.png-054a6f917d59c7b3af2dfce4ca57e705.stex"
 [deps]
 
 source_file="res://objects/kenney_space_shooter/laser_green/tile.png"
+source_md5="ddf7102c86fc3ec46037714c60091851"
+
 dest_files=[ "res://.import/tile.png-054a6f917d59c7b3af2dfce4ca57e705.stex" ]
+dest_md5="82cb329ec360e3d6bca9f29ccf547713"
 
 [params]
 

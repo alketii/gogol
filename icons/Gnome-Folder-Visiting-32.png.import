@@ -7,7 +7,10 @@ path="res://.import/Gnome-Folder-Visiting-32.png-39f4306ef722434b6c8ea1bb9d60620
 [deps]
 
 source_file="res://icons/Gnome-Folder-Visiting-32.png"
+source_md5="42581a7be961569c300e1aff497e7b32"
+
 dest_files=[ "res://.import/Gnome-Folder-Visiting-32.png-39f4306ef722434b6c8ea1bb9d606207.stex" ]
+dest_md5="7de606ba44693c6b059be37bfc35f8e4"
 
 [params]
 

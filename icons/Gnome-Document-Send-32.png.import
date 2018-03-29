@@ -7,7 +7,10 @@ path="res://.import/Gnome-Document-Send-32.png-4e47b39d316eeb68151cf54c68fb5bcc.
 [deps]
 
 source_file="res://icons/Gnome-Document-Send-32.png"
+source_md5="2a708fdbe5a48ebdfe119753d2216656"
+
 dest_files=[ "res://.import/Gnome-Document-Send-32.png-4e47b39d316eeb68151cf54c68fb5bcc.stex" ]
+dest_md5="e5918f8a016481ef2dc6ca6b01ff8d97"
 
 [params]
 

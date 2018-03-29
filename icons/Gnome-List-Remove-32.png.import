@@ -7,7 +7,10 @@ path="res://.import/Gnome-List-Remove-32.png-7a1e64a3653d9e4a7df18b01931da489.st
 [deps]
 
 source_file="res://icons/Gnome-List-Remove-32.png"
+source_md5="bbd7feb5466d167d7b7b42f9ee4931ca"
+
 dest_files=[ "res://.import/Gnome-List-Remove-32.png-7a1e64a3653d9e4a7df18b01931da489.stex" ]
+dest_md5="8f0ab99be5869346eb71a9f4932f7e49"
 
 [params]
 

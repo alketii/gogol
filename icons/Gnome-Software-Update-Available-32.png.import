@@ -7,7 +7,10 @@ path="res://.import/Gnome-Software-Update-Available-32.png-a60f9ebf8ae58d106a98f
 [deps]
 
 source_file="res://icons/Gnome-Software-Update-Available-32.png"
+source_md5="6dbc438c9db75c77cdc9fd5cde582a7e"
+
 dest_files=[ "res://.import/Gnome-Software-Update-Available-32.png-a60f9ebf8ae58d106a98f0f6e620cd90.stex" ]
+dest_md5="b1396bd3983455c1da7ac9fb1c418c21"
 
 [params]
 

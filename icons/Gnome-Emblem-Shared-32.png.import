@@ -7,7 +7,10 @@ path="res://.import/Gnome-Emblem-Shared-32.png-a1d106b8a9b0f357833df365f9107db2.
 [deps]
 
 source_file="res://icons/Gnome-Emblem-Shared-32.png"
+source_md5="779f197203d60f9e2d7e3be9aad45528"
+
 dest_files=[ "res://.import/Gnome-Emblem-Shared-32.png-a1d106b8a9b0f357833df365f9107db2.stex" ]
+dest_md5="b37ef424af73d60fcda680fe05495b2b"
 
 [params]
 

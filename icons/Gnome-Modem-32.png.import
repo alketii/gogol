@@ -7,7 +7,10 @@ path="res://.import/Gnome-Modem-32.png-203fae098dd66ebe8c2e837f44353fcb.stex"
 [deps]
 
 source_file="res://icons/Gnome-Modem-32.png"
+source_md5="a60be9b16441cf0766eccf0a172040eb"
+
 dest_files=[ "res://.import/Gnome-Modem-32.png-203fae098dd66ebe8c2e837f44353fcb.stex" ]
+dest_md5="940f3639b955f7056298e7e81d380cbd"
 
 [params]
 

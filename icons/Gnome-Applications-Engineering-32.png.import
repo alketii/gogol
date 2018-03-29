@@ -7,7 +7,10 @@ path="res://.import/Gnome-Applications-Engineering-32.png-23e6b1becdf6bf04d0014f
 [deps]
 
 source_file="res://icons/Gnome-Applications-Engineering-32.png"
+source_md5="520997373daa66db03b7d61e0ba7868a"
+
 dest_files=[ "res://.import/Gnome-Applications-Engineering-32.png-23e6b1becdf6bf04d0014f4b46d1a59a.stex" ]
+dest_md5="b837d6bc5386cbe82ad0461ecc780197"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Go-Top-32.png-053ac42052bbc6eeca2a168bf6b35bab.stex"
 [deps]
 
 source_file="res://icons/Gnome-Go-Top-32.png"
+source_md5="c59e437712ca8ceaf002af2db9ca66ef"
+
 dest_files=[ "res://.import/Gnome-Go-Top-32.png-053ac42052bbc6eeca2a168bf6b35bab.stex" ]
+dest_md5="d4ddaefc3731aee1e98aa78259beda78"
 
 [params]
 

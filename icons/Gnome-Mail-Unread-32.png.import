@@ -7,7 +7,10 @@ path="res://.import/Gnome-Mail-Unread-32.png-2860bb3c0ed2dda19061cbea64c0bdc9.st
 [deps]
 
 source_file="res://icons/Gnome-Mail-Unread-32.png"
+source_md5="df3fddf12a1799f0967237507da616db"
+
 dest_files=[ "res://.import/Gnome-Mail-Unread-32.png-2860bb3c0ed2dda19061cbea64c0bdc9.stex" ]
+dest_md5="055e1565f10b2c9f26ea830ae87e29b2"
 
 [params]
 

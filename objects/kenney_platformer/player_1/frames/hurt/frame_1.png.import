@@ -7,7 +7,10 @@ path="res://.import/frame_1.png-d0d375366c631e80642c8bfa315989c3.stex"
 [deps]
 
 source_file="res://objects/kenney_platformer/player_1/frames/hurt/frame_1.png"
+source_md5="fbb41412949343e534ca5024a7c49194"
+
 dest_files=[ "res://.import/frame_1.png-d0d375366c631e80642c8bfa315989c3.stex" ]
+dest_md5="2900944fd7ea3b4adb73d66540a35f58"
 
 [params]
 

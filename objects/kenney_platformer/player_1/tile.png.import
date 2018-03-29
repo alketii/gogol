@@ -7,7 +7,10 @@ path="res://.import/tile.png-e710721ac020ae9db0cf185686eafc3f.stex"
 [deps]
 
 source_file="res://objects/kenney_platformer/player_1/tile.png"
+source_md5="b03a3f3d83b7badb7c6d6602665fd7ba"
+
 dest_files=[ "res://.import/tile.png-e710721ac020ae9db0cf185686eafc3f.stex" ]
+dest_md5="49ab600eb685bbd6616c9d900a99d2d4"
 
 [params]
 

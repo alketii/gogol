@@ -7,7 +7,10 @@ path="res://.import/frame_1.png-19cb9034b1836fe258b7e06e2756054f.stex"
 [deps]
 
 source_file="res://objects/kenney_platformer/player_1/frames/ducking/frame_1.png"
+source_md5="0d100ffff01378c768919d93c4bb9561"
+
 dest_files=[ "res://.import/frame_1.png-19cb9034b1836fe258b7e06e2756054f.stex" ]
+dest_md5="468921a3ae2b871361d45fed72bead20"
 
 [params]
 

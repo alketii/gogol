@@ -7,7 +7,10 @@ path="res://.import/Im-Yahoo-32.png-c2db79f930b1818ab8476b773aa870ed.stex"
 [deps]
 
 source_file="res://icons/Im-Yahoo-32.png"
+source_md5="7e3690c0e486aa20390cf24019e9a43b"
+
 dest_files=[ "res://.import/Im-Yahoo-32.png-c2db79f930b1818ab8476b773aa870ed.stex" ]
+dest_md5="57a61ffea7821a256d5881c9bb8cdccf"
 
 [params]
 

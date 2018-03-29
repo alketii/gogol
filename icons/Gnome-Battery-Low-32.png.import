@@ -7,7 +7,10 @@ path="res://.import/Gnome-Battery-Low-32.png-e274bb0aaa9ea1e37260c4826b3a89a6.st
 [deps]
 
 source_file="res://icons/Gnome-Battery-Low-32.png"
+source_md5="3f0005adef13409ea70bd004dc8dbf27"
+
 dest_files=[ "res://.import/Gnome-Battery-Low-32.png-e274bb0aaa9ea1e37260c4826b3a89a6.stex" ]
+dest_md5="c60422a3b821f6666df930bda5e5d5de"
 
 [params]
 

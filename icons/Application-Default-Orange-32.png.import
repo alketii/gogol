@@ -7,7 +7,10 @@ path="res://.import/Application-Default-Orange-32.png-9632f3efed4d82bd38d912d74f
 [deps]
 
 source_file="res://icons/Application-Default-Orange-32.png"
+source_md5="b05180f90fe6708f73335cf58de1d745"
+
 dest_files=[ "res://.import/Application-Default-Orange-32.png-9632f3efed4d82bd38d912d74f890092.stex" ]
+dest_md5="2d84573e456265bb601233f548ab9889"
 
 [params]
 

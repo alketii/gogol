@@ -177,9 +177,12 @@ func _on_save_project_button_down():
 		var props = {}
 		for prop in i.custom_prop:
 			props[prop] = i.custom_prop[prop]['value']
+		
+		var out_pos = i.get_position() - gviewport.get_position()
 		output[i.get_name()]= {
 			"name":i.obj_name,
-			"pos":i.get_position() - gviewport.get_position(),
+			"pos_x":out_pos.x,
+			"pos_y":out_pos.y,
 			"type":i.obj_type,
 			"loc":i.location,
 			"group":i.obj_group,
@@ -188,6 +191,7 @@ func _on_save_project_button_down():
 			"prop":props
 		}
 	saveproject.store_line(to_json(output))
+	get_tree().change_scene("res://runner.tscn")
 
 func _on_duplicate_object_button_down():
 	dup_cnt.get_node("clone").set_pressed(false)

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Media-Record-32.png-3b4aab731dcde608123aaf879d873c30.s
 [deps]
 
 source_file="res://icons/Gnome-Media-Record-32.png"
+source_md5="8078702c720fe6026f9e8a444e9cbf2c"
+
 dest_files=[ "res://.import/Gnome-Media-Record-32.png-3b4aab731dcde608123aaf879d873c30.stex" ]
+dest_md5="8323fc57ae0d989d4fe950b677ab893b"
 
 [params]
 

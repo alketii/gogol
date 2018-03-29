@@ -7,7 +7,10 @@ path="res://.import/Gnome-Accessories-Character-Map-32.png-02c031f9b381075629582
 [deps]
 
 source_file="res://icons/Gnome-Accessories-Character-Map-32.png"
+source_md5="2633005bd3d0d64326dfed2d0be9b7b9"
+
 dest_files=[ "res://.import/Gnome-Accessories-Character-Map-32.png-02c031f9b381075629582fd13bd553b9.stex" ]
+dest_md5="e3de5d224a46ab9d4f861b3a7ca82381"
 
 [params]
 

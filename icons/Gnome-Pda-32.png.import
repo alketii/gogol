@@ -7,7 +7,10 @@ path="res://.import/Gnome-Pda-32.png-2a25c2a9aedcd888aca7b39eebb4a6b2.stex"
 [deps]
 
 source_file="res://icons/Gnome-Pda-32.png"
+source_md5="a6f6324ccd37d96673c5b4e15f94662d"
+
 dest_files=[ "res://.import/Gnome-Pda-32.png-2a25c2a9aedcd888aca7b39eebb4a6b2.stex" ]
+dest_md5="db013cc8e48c0121d9d9f4ec7768c9bd"
 
 [params]
 

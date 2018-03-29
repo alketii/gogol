@@ -7,7 +7,10 @@ path="res://.import/Gnome-Mail-Reply-All-32.png-f8c49b30bf3942242d98277f60c76cf1
 [deps]
 
 source_file="res://icons/Gnome-Mail-Reply-All-32.png"
+source_md5="69fa9c294d0926d991d041914c88c8ae"
+
 dest_files=[ "res://.import/Gnome-Mail-Reply-All-32.png-f8c49b30bf3942242d98277f60c76cf1.stex" ]
+dest_md5="4bdc139eee7fd4af4be8b726c0d44848"
 
 [params]
 

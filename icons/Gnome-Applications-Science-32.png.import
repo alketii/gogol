@@ -7,7 +7,10 @@ path="res://.import/Gnome-Applications-Science-32.png-3baca004f3b194fd6ebb7156b3
 [deps]
 
 source_file="res://icons/Gnome-Applications-Science-32.png"
+source_md5="5910594114cd7a0408df5af4dd3e5213"
+
 dest_files=[ "res://.import/Gnome-Applications-Science-32.png-3baca004f3b194fd6ebb7156b3d6ac96.stex" ]
+dest_md5="b119fb77ad03a2a7317d723b0df70e62"
 
 [params]
 

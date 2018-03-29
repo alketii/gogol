@@ -7,7 +7,10 @@ path="res://.import/Gnome-Go-Up-32.png-ffc1d831dc193d72f58d38125e566a3e.stex"
 [deps]
 
 source_file="res://icons/Gnome-Go-Up-32.png"
+source_md5="f1f064d6722b80dad025812ea02047c4"
+
 dest_files=[ "res://.import/Gnome-Go-Up-32.png-ffc1d831dc193d72f58d38125e566a3e.stex" ]
+dest_md5="b13f308eaefb82954d06628759d073c1"
 
 [params]
 

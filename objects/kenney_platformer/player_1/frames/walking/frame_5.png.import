@@ -7,7 +7,10 @@ path="res://.import/frame_5.png-6e7fc69f2a27ec90dbde025bc0484531.stex"
 [deps]
 
 source_file="res://objects/kenney_platformer/player_1/frames/walking/frame_5.png"
+source_md5="963e64dab6030d62faf65c0eed120d91"
+
 dest_files=[ "res://.import/frame_5.png-6e7fc69f2a27ec90dbde025bc0484531.stex" ]
+dest_md5="661571e5985764af6af0b6ac577110dd"
 
 [params]
 

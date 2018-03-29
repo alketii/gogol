@@ -7,7 +7,10 @@ path="res://.import/Gnome-Battery-32.png-deb3362df1548c968781b761723977aa.stex"
 [deps]
 
 source_file="res://icons/Gnome-Battery-32.png"
+source_md5="a98d59bf25b786b16d802c80ef2b454f"
+
 dest_files=[ "res://.import/Gnome-Battery-32.png-deb3362df1548c968781b761723977aa.stex" ]
+dest_md5="08bbaed1c8ce32fc55f2625ab0ad9122"
 
 [params]
 

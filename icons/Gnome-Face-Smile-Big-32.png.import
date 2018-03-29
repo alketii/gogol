@@ -7,7 +7,10 @@ path="res://.import/Gnome-Face-Smile-Big-32.png-64e4662c906af75e271f2ed36e87eabf
 [deps]
 
 source_file="res://icons/Gnome-Face-Smile-Big-32.png"
+source_md5="f16a29ee760840b067089057e6b7b249"
+
 dest_files=[ "res://.import/Gnome-Face-Smile-Big-32.png-64e4662c906af75e271f2ed36e87eabf.stex" ]
+dest_md5="5d872c90525307594710b2987118df26"
 
 [params]
 

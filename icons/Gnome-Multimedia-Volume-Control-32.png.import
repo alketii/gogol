@@ -7,7 +7,10 @@ path="res://.import/Gnome-Multimedia-Volume-Control-32.png-379d883b5c8710e76a787
 [deps]
 
 source_file="res://icons/Gnome-Multimedia-Volume-Control-32.png"
+source_md5="7e8eb22e06eabfac68fa7b3e2973cabe"
+
 dest_files=[ "res://.import/Gnome-Multimedia-Volume-Control-32.png-379d883b5c8710e76a787115b24034ca.stex" ]
+dest_md5="383c8577778d6801d2456031a22df517"
 
 [params]
 

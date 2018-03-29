@@ -7,7 +7,10 @@ path="res://.import/Gnome-Edit-Delete-32.png-d7a289ffd5795c07297cc4be3c94e286.st
 [deps]
 
 source_file="res://icons/Gnome-Edit-Delete-32.png"
+source_md5="03633016d3cd338015b5f0870bdc9ab0"
+
 dest_files=[ "res://.import/Gnome-Edit-Delete-32.png-d7a289ffd5795c07297cc4be3c94e286.stex" ]
+dest_md5="c8131ee7d9c52b43b7c69fe77681cf1c"
 
 [params]
 

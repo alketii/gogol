@@ -7,7 +7,10 @@ path="res://.import/Gnome-Edit-Clear-32.png-5556ac227cb49a29c13b236390c979e3.ste
 [deps]
 
 source_file="res://icons/Gnome-Edit-Clear-32.png"
+source_md5="869dc6c1eca80d9cf83df1f080cda7db"
+
 dest_files=[ "res://.import/Gnome-Edit-Clear-32.png-5556ac227cb49a29c13b236390c979e3.stex" ]
+dest_md5="3f0b4112d42e98690b38aedd73f0b292"
 
 [params]
 

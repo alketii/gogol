@@ -7,7 +7,10 @@ path="res://.import/Gnome-Emblem-Urgent-32.png-e2cfa749b5fc17a0e082cbd1311937fe.
 [deps]
 
 source_file="res://icons/Gnome-Emblem-Urgent-32.png"
+source_md5="0fb44b0394ec68808d691bde173b5cb2"
+
 dest_files=[ "res://.import/Gnome-Emblem-Urgent-32.png-e2cfa749b5fc17a0e082cbd1311937fe.stex" ]
+dest_md5="3d0d07156c9d8ae138c12c30c04fd175"
 
 [params]
 

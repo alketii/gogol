@@ -7,7 +7,10 @@ path="res://.import/Gnome-Network-Receive-32.png-91b9890aa113660ac1c6596ccd8a292
 [deps]
 
 source_file="res://icons/Gnome-Network-Receive-32.png"
+source_md5="dd498b920655566adaed18a668985e42"
+
 dest_files=[ "res://.import/Gnome-Network-Receive-32.png-91b9890aa113660ac1c6596ccd8a2927.stex" ]
+dest_md5="08792815d102271208afc2f75919f3a0"
 
 [params]
 

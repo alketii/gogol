@@ -7,7 +7,10 @@ path="res://.import/Gnome-Applications-Other-32.png-97d60fd185aaac76bee7aed9943f
 [deps]
 
 source_file="res://icons/Gnome-Applications-Other-32.png"
+source_md5="0a33560cf4c57fee736cff73e5320c46"
+
 dest_files=[ "res://.import/Gnome-Applications-Other-32.png-97d60fd185aaac76bee7aed9943fffd5.stex" ]
+dest_md5="3e5f823e68587e1891dfeb8be3e2c5f0"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Document-Print-Preview-32.png-131e0057cbf94c7d2c669664
 [deps]
 
 source_file="res://icons/Gnome-Document-Print-Preview-32.png"
+source_md5="3bbe5b92d3230740aa99d1c360919bef"
+
 dest_files=[ "res://.import/Gnome-Document-Print-Preview-32.png-131e0057cbf94c7d2c6696647de9cc23.stex" ]
+dest_md5="0d8c32be93841c98343408c68f6c2d98"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Dialog-Question-32.png-12957de4d12523c40699cb9997ca3ee
 [deps]
 
 source_file="res://icons/Gnome-Dialog-Question-32.png"
+source_md5="d16727b8aa91482543b2984bc8ed07d3"
+
 dest_files=[ "res://.import/Gnome-Dialog-Question-32.png-12957de4d12523c40699cb9997ca3eef.stex" ]
+dest_md5="5166a2f0f9ee9f5661870e4c4190c598"
 
 [params]
 

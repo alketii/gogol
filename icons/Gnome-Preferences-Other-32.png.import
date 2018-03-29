@@ -7,7 +7,10 @@ path="res://.import/Gnome-Preferences-Other-32.png-e09dbf4fb4d636decdb992d06c170
 [deps]
 
 source_file="res://icons/Gnome-Preferences-Other-32.png"
+source_md5="8ac6074a7d71a69ba34cd1623d5deba8"
+
 dest_files=[ "res://.import/Gnome-Preferences-Other-32.png-e09dbf4fb4d636decdb992d06c170064.stex" ]
+dest_md5="0ba0db3469d20a94c6f0998beddf92fa"
 
 [params]
 

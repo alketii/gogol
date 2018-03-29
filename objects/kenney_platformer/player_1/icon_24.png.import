@@ -7,7 +7,10 @@ path="res://.import/icon_24.png-39a671f9ce6424b7ce4c12f2095a22a6.stex"
 [deps]
 
 source_file="res://objects/kenney_platformer/player_1/icon_24.png"
+source_md5="3ac6535dc49081725122959b2d274659"
+
 dest_files=[ "res://.import/icon_24.png-39a671f9ce6424b7ce4c12f2095a22a6.stex" ]
+dest_md5="8aac0a90958913e636a112a5f54056f0"
 
 [params]
 

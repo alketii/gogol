@@ -7,7 +7,10 @@ path="res://.import/Gnome-Camera-Photo-32.png-8470106b82bd1215ee850f0eb710cc9a.s
 [deps]
 
 source_file="res://icons/Gnome-Camera-Photo-32.png"
+source_md5="2c6fa4083cef504af23b9b6f735810e8"
+
 dest_files=[ "res://.import/Gnome-Camera-Photo-32.png-8470106b82bd1215ee850f0eb710cc9a.stex" ]
+dest_md5="5e87f5cbccf0766664fe642bd4b4f3d3"
 
 [params]
 

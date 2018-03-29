@@ -7,7 +7,10 @@ path="res://.import/Gnome-Image-Missing-32.png-24fbeb865026aa258c0cde5bb9c00991.
 [deps]
 
 source_file="res://icons/Gnome-Image-Missing-32.png"
+source_md5="e732871d491595f93ddcb3bdc3b189b6"
+
 dest_files=[ "res://.import/Gnome-Image-Missing-32.png-24fbeb865026aa258c0cde5bb9c00991.stex" ]
+dest_md5="51aa3059e93433ef2e85f6ee44201907"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Preferences-Desktop-Accessibility-32.png-ab94524fe1ae1
 [deps]
 
 source_file="res://icons/Gnome-Preferences-Desktop-Accessibility-32.png"
+source_md5="1dd6d7037e0d3c736373574e0b11337c"
+
 dest_files=[ "res://.import/Gnome-Preferences-Desktop-Accessibility-32.png-ab94524fe1ae1ddb9b754b0214e6298b.stex" ]
+dest_md5="2c102e655200cea84d7bd50c273ff4c2"
 
 [params]
 

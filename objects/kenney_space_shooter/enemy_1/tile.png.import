@@ -7,7 +7,10 @@ path="res://.import/tile.png-7ef499278daceef97e482cf26c62d5d5.stex"
 [deps]
 
 source_file="res://objects/kenney_space_shooter/enemy_1/tile.png"
+source_md5="2a41854e0eaa974e8619298f3b333e11"
+
 dest_files=[ "res://.import/tile.png-7ef499278daceef97e482cf26c62d5d5.stex" ]
+dest_md5="72f5d014a4ccfd4d49a6b4b03041ebdd"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Help-About-32.png-d465e206c0590e4d9bddf35696a7150e.ste
 [deps]
 
 source_file="res://icons/Gnome-Help-About-32.png"
+source_md5="ed0bd531bc7af9abf137fe78f6243f20"
+
 dest_files=[ "res://.import/Gnome-Help-About-32.png-d465e206c0590e4d9bddf35696a7150e.stex" ]
+dest_md5="04ef43d6fa13a6fa1f32d466b073a578"
 
 [params]
 

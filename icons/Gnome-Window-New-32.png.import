@@ -7,7 +7,10 @@ path="res://.import/Gnome-Window-New-32.png-5239c09ffe60f2f0aeb8be58630a9e9d.ste
 [deps]
 
 source_file="res://icons/Gnome-Window-New-32.png"
+source_md5="b209afbd892b0602cd093d779b778fee"
+
 dest_files=[ "res://.import/Gnome-Window-New-32.png-5239c09ffe60f2f0aeb8be58630a9e9d.stex" ]
+dest_md5="31408de90aec89f9e814ea2aee3a19b6"
 
 [params]
 

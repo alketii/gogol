@@ -7,7 +7,10 @@ path="res://.import/Gnome-System-Run-32.png-f219fb15dd20e7a6b98add84a3973922.ste
 [deps]
 
 source_file="res://icons/Gnome-System-Run-32.png"
+source_md5="72dfb099b537d2956d222f5453544aca"
+
 dest_files=[ "res://.import/Gnome-System-Run-32.png-f219fb15dd20e7a6b98add84a3973922.stex" ]
+dest_md5="7e5f1110061320b92da6e6d7bb8eac6b"
 
 [params]
 

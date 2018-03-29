@@ -7,7 +7,10 @@ path="res://.import/Gnome-Format-Text-Underline-32.png-7dc70387c0297ea2387679b4e
 [deps]
 
 source_file="res://icons/Gnome-Format-Text-Underline-32.png"
+source_md5="6ec62f28633dbda72f574732d441df56"
+
 dest_files=[ "res://.import/Gnome-Format-Text-Underline-32.png-7dc70387c0297ea2387679b4edfa0ffe.stex" ]
+dest_md5="149b2b6d1d0df095bdfdedd1252825cf"
 
 [params]
 

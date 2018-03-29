@@ -7,7 +7,10 @@ path="res://.import/Gnome-Face-Devilish-32.png-39f8837630d8f7e8ccb29b4b3f57e23c.
 [deps]
 
 source_file="res://icons/Gnome-Face-Devilish-32.png"
+source_md5="3103f1aa2be751e6aedf65bd4d79fbdb"
+
 dest_files=[ "res://.import/Gnome-Face-Devilish-32.png-39f8837630d8f7e8ccb29b4b3f57e23c.stex" ]
+dest_md5="b094d72ba48dac59f8d6448f6ab7ee47"
 
 [params]
 

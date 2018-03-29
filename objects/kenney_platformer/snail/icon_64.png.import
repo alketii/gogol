@@ -7,7 +7,10 @@ path="res://.import/icon_64.png-a0d5323570ed593802166eb12a127ac3.stex"
 [deps]
 
 source_file="res://objects/kenney_platformer/snail/icon_64.png"
+source_md5="c451c7fc4c044da6621f8fda42f41a4c"
+
 dest_files=[ "res://.import/icon_64.png-a0d5323570ed593802166eb12a127ac3.stex" ]
+dest_md5="9d27685c3b997db530d5c1df55173b4e"
 
 [params]
 

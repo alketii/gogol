@@ -7,7 +7,10 @@ path="res://.import/Gnome-Drive-Removable-Media-32.png-e69b2749591a754f76372c965
 [deps]
 
 source_file="res://icons/Gnome-Drive-Removable-Media-32.png"
+source_md5="52a99e69335f910a0059ea97bdd028a7"
+
 dest_files=[ "res://.import/Gnome-Drive-Removable-Media-32.png-e69b2749591a754f76372c9651bce72e.stex" ]
+dest_md5="8021c240207803c1601a7f188f59709a"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Weather-Showers-32.png-8cc6b3171010cc9a6405c150d130405
 [deps]
 
 source_file="res://icons/Gnome-Weather-Showers-32.png"
+source_md5="430c87c33cc08343ef8ead204139f65d"
+
 dest_files=[ "res://.import/Gnome-Weather-Showers-32.png-8cc6b3171010cc9a6405c150d1304059.stex" ]
+dest_md5="a5548a389dc06ee53cf27733267ed3c5"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Printer-Printing-32.png-64d48e8d003183c6ad6deb21162b25
 [deps]
 
 source_file="res://icons/Gnome-Printer-Printing-32.png"
+source_md5="cc51d30bcea6394091097cc2a50c30c3"
+
 dest_files=[ "res://.import/Gnome-Printer-Printing-32.png-64d48e8d003183c6ad6deb21162b256a.stex" ]
+dest_md5="f3c2c5a7b686333e68b725ce2868effe"
 
 [params]
 

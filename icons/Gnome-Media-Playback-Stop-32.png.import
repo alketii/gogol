@@ -7,7 +7,10 @@ path="res://.import/Gnome-Media-Playback-Stop-32.png-880d56f8e0f07373d4505d7fa13
 [deps]
 
 source_file="res://icons/Gnome-Media-Playback-Stop-32.png"
+source_md5="41ad7b2f1086c05b40189f4511ca3ff0"
+
 dest_files=[ "res://.import/Gnome-Media-Playback-Stop-32.png-880d56f8e0f07373d4505d7fa13c58e4.stex" ]
+dest_md5="f59b78b9d1c3262b8b1c53518bccff3d"
 
 [params]
 

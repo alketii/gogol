@@ -7,7 +7,10 @@ path="res://.import/Gnome-Format-Text-Bold-32.png-67b336a147792545dd60a2f0d081e3
 [deps]
 
 source_file="res://icons/Gnome-Format-Text-Bold-32.png"
+source_md5="c95f8c08d162bce0aa05c603cda0fa80"
+
 dest_files=[ "res://.import/Gnome-Format-Text-Bold-32.png-67b336a147792545dd60a2f0d081e391.stex" ]
+dest_md5="b6626b8f7ee6c1bc5d407de4690b2603"
 
 [params]
 

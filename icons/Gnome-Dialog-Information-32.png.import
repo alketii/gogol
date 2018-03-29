@@ -7,7 +7,10 @@ path="res://.import/Gnome-Dialog-Information-32.png-005bdb9ab8f48d5eb769b86c82f7
 [deps]
 
 source_file="res://icons/Gnome-Dialog-Information-32.png"
+source_md5="2f531b54fc00b2e2043e5b0396c5fab3"
+
 dest_files=[ "res://.import/Gnome-Dialog-Information-32.png-005bdb9ab8f48d5eb769b86c82f71d38.stex" ]
+dest_md5="75045fe34036155cf08deebeddc99105"
 
 [params]
 

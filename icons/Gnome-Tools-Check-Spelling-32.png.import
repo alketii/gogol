@@ -7,7 +7,10 @@ path="res://.import/Gnome-Tools-Check-Spelling-32.png-0491f19860bc2fee2a23141d95
 [deps]
 
 source_file="res://icons/Gnome-Tools-Check-Spelling-32.png"
+source_md5="cd2c4d47e3eb07239ed9cf77cecddb8e"
+
 dest_files=[ "res://.import/Gnome-Tools-Check-Spelling-32.png-0491f19860bc2fee2a23141d95907c78.stex" ]
+dest_md5="cecb1cd3687e080dc01aa67f3026d917"
 
 [params]
 

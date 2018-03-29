@@ -7,7 +7,10 @@ path="res://.import/Gnome-Security-Low-32.png-ddfb1ba65b09c230c72d61967cb6dae6.s
 [deps]
 
 source_file="res://icons/Gnome-Security-Low-32.png"
+source_md5="c2bae4f5050d8f7469d31542096f9be9"
+
 dest_files=[ "res://.import/Gnome-Security-Low-32.png-ddfb1ba65b09c230c72d61967cb6dae6.stex" ]
+dest_md5="9a8ebb81283aa60bb994dddcdd4b92a4"
 
 [params]
 

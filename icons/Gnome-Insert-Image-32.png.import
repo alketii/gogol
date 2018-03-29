@@ -7,7 +7,10 @@ path="res://.import/Gnome-Insert-Image-32.png-6b4eef6fd13635b2e2d748b857b9bb5b.s
 [deps]
 
 source_file="res://icons/Gnome-Insert-Image-32.png"
+source_md5="58bf30e34d88ef7fcfe711368f742527"
+
 dest_files=[ "res://.import/Gnome-Insert-Image-32.png-6b4eef6fd13635b2e2d748b857b9bb5b.stex" ]
+dest_md5="ae80bdc3e23c8e6a9f2117d9b90a1237"
 
 [params]
 

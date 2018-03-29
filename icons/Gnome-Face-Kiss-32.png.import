@@ -7,7 +7,10 @@ path="res://.import/Gnome-Face-Kiss-32.png-0c2b474eabc05ab3544fc9b1e75a0ef0.stex
 [deps]
 
 source_file="res://icons/Gnome-Face-Kiss-32.png"
+source_md5="f2bfab73ceff7480754155cb7341fa48"
+
 dest_files=[ "res://.import/Gnome-Face-Kiss-32.png-0c2b474eabc05ab3544fc9b1e75a0ef0.stex" ]
+dest_md5="43eb9c68603ea92fa893bfd48ce7dde4"
 
 [params]
 

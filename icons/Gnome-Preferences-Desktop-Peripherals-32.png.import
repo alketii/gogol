@@ -7,7 +7,10 @@ path="res://.import/Gnome-Preferences-Desktop-Peripherals-32.png-6e8b2c1037ac25b
 [deps]
 
 source_file="res://icons/Gnome-Preferences-Desktop-Peripherals-32.png"
+source_md5="0514768c8fdb26a437eb53e55394874c"
+
 dest_files=[ "res://.import/Gnome-Preferences-Desktop-Peripherals-32.png-6e8b2c1037ac25b2526c8550ca912010.stex" ]
+dest_md5="d5be7e2c77b369a8b0010f81a16e33ed"
 
 [params]
 

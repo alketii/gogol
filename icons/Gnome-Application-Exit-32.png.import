@@ -7,7 +7,10 @@ path="res://.import/Gnome-Application-Exit-32.png-e7f6ef3f7f3cc7c5f1b8cb7aea9222
 [deps]
 
 source_file="res://icons/Gnome-Application-Exit-32.png"
+source_md5="5bb688f3ba64250ee10f427121071a48"
+
 dest_files=[ "res://.import/Gnome-Application-Exit-32.png-e7f6ef3f7f3cc7c5f1b8cb7aea9222b4.stex" ]
+dest_md5="53bd7e8eedd9c447503e42f568cb8375"
 
 [params]
 

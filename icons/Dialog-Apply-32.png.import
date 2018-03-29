@@ -7,7 +7,10 @@ path="res://.import/Dialog-Apply-32.png-6821411639889573687ac2ca9477ba62.stex"
 [deps]
 
 source_file="res://icons/Dialog-Apply-32.png"
+source_md5="598afd8dc4640a22e317fdc411bb9911"
+
 dest_files=[ "res://.import/Dialog-Apply-32.png-6821411639889573687ac2ca9477ba62.stex" ]
+dest_md5="0012e14151f6d847f08a766f103aa05a"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Timezone-32.png-3486cb1e01e919bbd9c958bacf4cf922.stex"
 [deps]
 
 source_file="res://icons/Gnome-Timezone-32.png"
+source_md5="5032e5b52e4e9eeb50ffdbc1cecfc504"
+
 dest_files=[ "res://.import/Gnome-Timezone-32.png-3486cb1e01e919bbd9c958bacf4cf922.stex" ]
+dest_md5="dbb0245186b822fcc2bc2516c0b29d10"
 
 [params]
 

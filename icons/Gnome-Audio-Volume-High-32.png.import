@@ -7,7 +7,10 @@ path="res://.import/Gnome-Audio-Volume-High-32.png-d121a81b4113f098412181be63b2b
 [deps]
 
 source_file="res://icons/Gnome-Audio-Volume-High-32.png"
+source_md5="641abd764091a3622946dfe6ab2e6b8b"
+
 dest_files=[ "res://.import/Gnome-Audio-Volume-High-32.png-d121a81b4113f098412181be63b2bc3a.stex" ]
+dest_md5="9603a7b4906c673e5eed3294b8a480f4"
 
 [params]
 

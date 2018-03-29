@@ -7,7 +7,10 @@ path="res://.import/Gnome-Applications-Office-32.png-cd558622285c0cc65959cde52f9
 [deps]
 
 source_file="res://icons/Gnome-Applications-Office-32.png"
+source_md5="01902bad43f384b24d0adf71b494aa8d"
+
 dest_files=[ "res://.import/Gnome-Applications-Office-32.png-cd558622285c0cc65959cde52f9e58d3.stex" ]
+dest_md5="05a73dbd57aeee645459ab5ce130ae07"
 
 [params]
 

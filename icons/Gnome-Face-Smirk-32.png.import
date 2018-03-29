@@ -7,7 +7,10 @@ path="res://.import/Gnome-Face-Smirk-32.png-f6f9287104bc28e02036da1373669907.ste
 [deps]
 
 source_file="res://icons/Gnome-Face-Smirk-32.png"
+source_md5="fbc55b1430dee05c6e788ec5df15644b"
+
 dest_files=[ "res://.import/Gnome-Face-Smirk-32.png-f6f9287104bc28e02036da1373669907.stex" ]
+dest_md5="582e1fd1978349f6a041567799c3b732"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Format-Indent-More-32.png-43c3d4e84d9039558a470742d9d9
 [deps]
 
 source_file="res://icons/Gnome-Format-Indent-More-32.png"
+source_md5="89ec1dcbbb71ba0a6416f217da9f6108"
+
 dest_files=[ "res://.import/Gnome-Format-Indent-More-32.png-43c3d4e84d9039558a470742d9d9dfee.stex" ]
+dest_md5="abac7da9424148927a82c1f0d6b510f2"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/Gnome-Weather-Clear-32.png-0f53559b917bc0fa76cd45909fd9429f.
 [deps]
 
 source_file="res://icons/Gnome-Weather-Clear-32.png"
+source_md5="d59986983196f2720a73a3aa293d8f74"
+
 dest_files=[ "res://.import/Gnome-Weather-Clear-32.png-0f53559b917bc0fa76cd45909fd9429f.stex" ]
+dest_md5="71dfc177397d87beac12aecc083cc01d"
 
 [params]
 

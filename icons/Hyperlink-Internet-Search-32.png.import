@@ -7,7 +7,10 @@ path="res://.import/Hyperlink-Internet-Search-32.png-60e87d269279c49d01292ffbe1d
 [deps]
 
 source_file="res://icons/Hyperlink-Internet-Search-32.png"
+source_md5="b81eb2af0d37639fd8e42dd35dcba468"
+
 dest_files=[ "res://.import/Hyperlink-Internet-Search-32.png-60e87d269279c49d01292ffbe1dfa754.stex" ]
+dest_md5="3124e48f39aa4630af196adbd01b9ef5"
 
 [params]
 

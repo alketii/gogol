@@ -7,7 +7,10 @@ path="res://.import/Gnome-List-Add-32.png-c08b57cb87a7ad82939450699d280b0f.stex"
 [deps]
 
 source_file="res://icons/Gnome-List-Add-32.png"
+source_md5="876a408f91d603a2054a3c41458c4016"
+
 dest_files=[ "res://.import/Gnome-List-Add-32.png-c08b57cb87a7ad82939450699d280b0f.stex" ]
+dest_md5="228b13dfaf1e7481a5a6115b9b8d19f4"
 
 [params]
 

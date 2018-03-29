@@ -7,7 +7,10 @@ path="res://.import/Gnome-Network-Workgroup-32.png-cdd2b4c479244ab59eb76d584426c
 [deps]
 
 source_file="res://icons/Gnome-Network-Workgroup-32.png"
+source_md5="ecf11e499cd466ae61ae7a34a12c52fd"
+
 dest_files=[ "res://.import/Gnome-Network-Workgroup-32.png-cdd2b4c479244ab59eb76d584426c109.stex" ]
+dest_md5="270d5f016eee6e5cacf756f5016e4aca"
 
 [params]
 

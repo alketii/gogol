@@ -7,7 +7,10 @@ path="res://.import/Accessories-Dictionary-32.png-7de69df36448cf1c04a38bcc351d82
 [deps]
 
 source_file="res://icons/Accessories-Dictionary-32.png"
+source_md5="cd9bdf56aed42233831f421fd3b3d103"
+
 dest_files=[ "res://.import/Accessories-Dictionary-32.png-7de69df36448cf1c04a38bcc351d8244.stex" ]
+dest_md5="864f2051c839c3bbd0c8986ffa41da27"
 
 [params]
 

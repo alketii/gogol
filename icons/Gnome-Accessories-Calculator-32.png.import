@@ -7,7 +7,10 @@ path="res://.import/Gnome-Accessories-Calculator-32.png-9bfd4d68860019ad132f6edf
 [deps]
 
 source_file="res://icons/Gnome-Accessories-Calculator-32.png"
+source_md5="28587ac7d2161911fa8770ce07ef302c"
+
 dest_files=[ "res://.import/Gnome-Accessories-Calculator-32.png-9bfd4d68860019ad132f6edfaeff5219.stex" ]
+dest_md5="fc420bcc6a9ea39c32dbe93b39c99a94"
 
 [params]
 

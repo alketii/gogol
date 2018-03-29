@@ -7,7 +7,10 @@ path="res://.import/Gnome-Applications-Utilities-32.png-ba088c7538ec7f4716be70cd
 [deps]
 
 source_file="res://icons/Gnome-Applications-Utilities-32.png"
+source_md5="58eb933bd8232e930e7d48c1635a76f1"
+
 dest_files=[ "res://.import/Gnome-Applications-Utilities-32.png-ba088c7538ec7f4716be70cd92e1ed1c.stex" ]
+dest_md5="f51085c44cde47f19304110f081508fa"
 
 [params]
 

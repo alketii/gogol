@@ -7,7 +7,10 @@ path="res://.import/Gnome-Mail-Send-32.png-d0cf1d990ef11002186753779986c682.stex
 [deps]
 
 source_file="res://icons/Gnome-Mail-Send-32.png"
+source_md5="4f90319ce4cb5d2d6159fcf8a18d9243"
+
 dest_files=[ "res://.import/Gnome-Mail-Send-32.png-d0cf1d990ef11002186753779986c682.stex" ]
+dest_md5="3d96d3e0c3fb8513081fd8d6eeebee54"
 
 [params]
 
