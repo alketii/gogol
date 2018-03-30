@@ -27,6 +27,7 @@ var pos = Vector2(0,0)
 var dir = Directory.new()
 
 func _ready():
+	#get_tree().change_scene("res://runner.tscn")
 	#OS.set_window_maximized(true)
 	list_categories()
 	window_resized()
