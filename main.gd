@@ -28,6 +28,7 @@ var dir = Directory.new()
 
 func _ready():
 	#get_tree().change_scene("res://runner.tscn")
+	OS.set_window_size(Vector2(1280,720))
 	#OS.set_window_maximized(true)
 	list_categories()
 	window_resized()

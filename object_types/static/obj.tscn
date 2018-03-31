@@ -2,7 +2,7 @@
 
 [ext_resource path="res://object_types/static/obj.gd" type="Script" id=1]
 
-[sub_resource type="SpriteFrames" id=3]
+[sub_resource type="SpriteFrames" id=1]
 
 animations = [ {
 "frames": [  ],
@@ -14,7 +14,7 @@ animations = [ {
 [sub_resource type="RectangleShape2D" id=2]
 
 custom_solver_bias = 0.0
-extents = Vector2( 10, 10 )
+extents = Vector2( 64, 64 )
 
 [node name="static" type="StaticBody2D"]
 
@@ -29,11 +29,11 @@ script = ExtResource( 1 )
 
 [node name="sprites" type="AnimatedSprite" parent="." index="0"]
 
-frames = SubResource( 3 )
+frames = SubResource( 1 )
 animation = "default"
 _sections_unfolded = [ "Transform" ]
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="." index="1"]
+[node name="collision" type="CollisionShape2D" parent="." index="1"]
 
 shape = SubResource( 2 )
 
