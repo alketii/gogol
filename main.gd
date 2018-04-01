@@ -24,6 +24,8 @@ var item_location = ""
 var obj_selected = ""
 var pos = Vector2(0,0)
 
+var groups = []
+
 var dir = Directory.new()
 var file = File.new()
 var config = ConfigFile.new()
@@ -115,10 +117,10 @@ func list_categories():
 func _on_add_object_button_down():
 	$pop_add_object/WindowDialog.popup()
 
-func _on_insert_into_scene_button_down(pos=Vector2(32,32),frame=1,from_viewport=false):
+func _on_insert_into_scene_button_down(pos=Vector2(32,32),animation="default",frame=1,from_viewport=false,group="",is_group=false):
 	var obj_new = obj.instance()
 	obj_new.location = item_location
-	obj_new.obj_frame = frame
+
 	if from_viewport:
 		obj_new.set_position(gviewport.get_position()+pos)
 	else:
@@ -141,6 +143,10 @@ func _on_insert_into_scene_button_down(pos=Vector2(32,32),frame=1,from_viewport=
 				obj_new.anims.append(file_name)
 			file_name = dir.get_next()
 	
+	obj_new.obj_is_group = is_group
+	obj_new.obj_group = group
+	obj_new.obj_frame = frame
+	obj_new.obj_anim = animation
 	objs.add_child(obj_new)
 	obj_new.selected()
 	$pop_add_object/WindowDialog.hide()
@@ -227,14 +233,17 @@ func _on_duplicate_button_down():
 	for x in range(1,cols+1):
 		for y in range(1,rows+1):
 			if Vector2(x,y) != Vector2(1,1):
+				# TODO old code, this should be done by _on_insert_into_scene_button_down()
 				var d_obj_new = obj.instance()
 				if not clone:
 					d_obj_new.obj_group = obj_group
+					d_obj_new.obj_is_group = true
 				d_obj_new.location = d_obj.location
 				d_obj_new.obj_anim = d_obj.obj_anim
 				d_obj_new.obj_frame = d_obj.obj_frame
 				d_obj_new.set_position(d_obj.get_position()+(d_obj.get_size()+spacing)*Vector2(x-1,y-1))
 				objs.add_child(d_obj_new)
+				
 	$duplicate_object/WindowDialog.hide()
 	
 
@@ -309,8 +318,14 @@ func read_project():
 	var project = parse_json(file.get_as_text())
 	file.close()
 	for item in project:
+		var is_group = false
+		if project[item]['group'] != "":
+			if groups.find(project[item]['group']) == -1:
+				groups.append(project[item]['group'])
+			else:
+				is_group = true
 		item_location = project[item]['loc']
-		_on_insert_into_scene_button_down(Vector2(project[item]['pos_x'],project[item]['pos_y']),project[item]['frame'],true)
+		_on_insert_into_scene_button_down(Vector2(project[item]['pos_x'],project[item]['pos_y']),project[item]['anim'],project[item]['frame'],true,project[item]['group'],is_group)
 
 func _on_btn_projects_button_down():
 	get_tree().change_scene("res://projects.tscn")

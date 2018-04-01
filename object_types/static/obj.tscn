@@ -14,10 +14,11 @@ animations = [ {
 [sub_resource type="RectangleShape2D" id=2]
 
 custom_solver_bias = 0.0
-extents = Vector2( 16, 16 )
+extents = Vector2( 32, 32 )
 
 [node name="static" type="StaticBody2D"]
 
+position = Vector2( 32, 32 )
 input_pickable = false
 collision_layer = 1
 collision_mask = 1
@@ -26,6 +27,7 @@ constant_angular_velocity = 0.0
 friction = 1.0
 bounce = 0.0
 script = ExtResource( 1 )
+_sections_unfolded = [ "Collision", "Transform" ]
 
 [node name="sprites" type="AnimatedSprite" parent="." index="0"]
 

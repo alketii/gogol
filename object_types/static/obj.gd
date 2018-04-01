@@ -1,9 +1,10 @@
 extends StaticBody2D
 
-var size = Vector2(0,0)
+var gg_offset = Vector2(0,0)
 
 func _ready():
-	pass
+	set_position(get_position()+gg_offset)
+	print(gg_offset)
 
 func gg_set_animation(animation):
 	pass

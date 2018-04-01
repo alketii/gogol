@@ -38,3 +38,7 @@ func _on_btn_create_button_down():
 	file.store_line("{}")
 	file.close()
 	$projects_list.add_item(name)
+
+
+func _on_btn_delete_button_down():
+	print("WIP")

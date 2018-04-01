@@ -2,7 +2,7 @@
 
 [ext_resource path="res://projects.gd" type="Script" id=1]
 
-[node name="projects" type="Node2D"]
+[node name="projects" type="Node2D" index="0"]
 
 script = ExtResource( 1 )
 
@@ -180,6 +180,8 @@ align = 1
 [connection signal="button_down" from="btn_run" to="." method="_on_btn_run_button_down"]
 
 [connection signal="button_down" from="btn_edit" to="." method="_on_btn_edit_button_down"]
+
+[connection signal="button_down" from="btn_delete" to="." method="_on_btn_delete_button_down"]
 
 [connection signal="button_down" from="btn_create" to="." method="_on_btn_create_button_down"]
 

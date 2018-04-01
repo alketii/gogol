@@ -1,5 +1,7 @@
 extends Node2D
 
+# TODO make runner "modular"
+
 var project = {}
 var groups = []
 
@@ -20,8 +22,8 @@ func _ready():
 				obj.get_node("sprites").set_sprite_frames(sprite_frames)
 				var c_frame = ImageTexture.new()
 				c_frame.load(project[item]['loc']+"/frames/default/frame_1.png") # TODO should it be frame specific ?
-				obj.size = c_frame
 				var c_size = c_frame.get_size() / 2
+				obj.gg_offset = c_size
 				var shape = obj.get_node("collision").get_shape().duplicate(true)
 				obj.get_node("collision").set_shape(shape)
 				obj.get_node("collision").get_shape().set_extents(c_size)
@@ -38,11 +40,12 @@ func _ready():
 					obj.set_name(project[item]['group'])
 			else:
 				obj = get_node(project[item]['group']).duplicate()
+				obj.gg_offset = get_node(project[item]['group']).gg_offset
 			
 			obj.gg_set_animation(project[item]['anim'])
 			obj.gg_set_frame(project[item]['frame'])
 
-			obj.set_position(Vector2(project[item]['pos_x'],project[item]['pos_y'])+Vector2(32,32)) # TODO find a better way for offset
+			obj.set_position(Vector2(project[item]['pos_x'],project[item]['pos_y'])+$viewport.get_position()) # TODO find a better way for offset
 				
 			add_child(obj)
 

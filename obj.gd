@@ -5,6 +5,7 @@ var pos = Vector2(0,0)
 var obj_name = "Object"
 var obj_id = "0"
 var obj_type = "static"
+var obj_is_group = false
 var obj_group = ""
 var obj_anim = "default"
 var obj_frame = 1
@@ -28,7 +29,7 @@ func _ready():
 	
 	update_anim()
 	
-	if obj_group == "":
+	if obj_group == "" or not obj_is_group:
 		icon.load(location+"/icon_24.png")
 		main.get_node("obj_list").add_item(obj_name,icon)
 		

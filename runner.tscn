@@ -8,7 +8,7 @@
 script = ExtResource( 1 )
 _sections_unfolded = [ "Transform" ]
 
-[node name="TextureRect" type="TextureRect" parent="." index="0"]
+[node name="viewport" type="TextureRect" parent="." index="0"]
 
 modulate = Color( 0.717647, 0.941176, 0.960784, 1 )
 anchor_left = 0.0
