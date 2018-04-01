@@ -25,6 +25,7 @@ var obj_selected = ""
 var pos = Vector2(0,0)
 
 var groups = []
+var obj_unique_list = []
 
 var dir = Directory.new()
 var file = File.new()
@@ -326,6 +327,8 @@ func read_project():
 				is_group = true
 		item_location = project[item]['loc']
 		_on_insert_into_scene_button_down(Vector2(project[item]['pos_x'],project[item]['pos_y']),project[item]['anim'],project[item]['frame'],true,project[item]['group'],is_group)
+	
+	selection_clear()
 
 func _on_btn_projects_button_down():
 	get_tree().change_scene("res://projects.tscn")

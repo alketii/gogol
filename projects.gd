@@ -14,8 +14,7 @@ func _ready():
 				$projects_list.add_item(file_name)
 			file_name = dir.get_next()
 		_on_projects_list_item_selected(0)
-		
-		
+
 
 func _on_projects_list_item_selected(index):
 	global.project = projects.get_item_text(index)
@@ -38,6 +37,7 @@ func _on_btn_create_button_down():
 	file.store_line("{}")
 	file.close()
 	$projects_list.add_item(name)
+	_on_projects_list_item_selected($projects_list.get_item_count()-1)
 
 
 func _on_btn_delete_button_down():
