@@ -25,6 +25,8 @@ var obj_selected = ""
 var pos = Vector2(0,0)
 
 var dir = Directory.new()
+var file = File.new()
+var config = ConfigFile.new()
 
 func _ready():
 	#get_tree().change_scene("res://runner.tscn")
@@ -97,6 +99,7 @@ func _on_focus_viewport_timeout():
 	var gview_diff = (scroll.get_rect().size-gviewport.get_rect().size)/2
 	scroll.set_h_scroll(gviewport.get_position().x-gview_diff.x)
 	scroll.set_v_scroll(gviewport.get_position().y-gview_diff.y)
+	read_project()
 
 func list_categories():
 	var dir = Directory.new()
@@ -112,20 +115,22 @@ func list_categories():
 func _on_add_object_button_down():
 	$pop_add_object/WindowDialog.popup()
 
-func _on_insert_into_scene_button_down():
+func _on_insert_into_scene_button_down(pos=Vector2(32,32),frame=1,from_viewport=false):
 	var obj_new = obj.instance()
 	obj_new.location = item_location
-	obj_new.set_position(Vector2(scroll.get_h_scroll()+32,scroll.get_v_scroll()+32))
-	var obj_cfg = ConfigFile.new()
-	if obj_cfg.load(item_location+"/config.ini") == OK:
-		obj_new.obj_name = obj_cfg.get_value("general","title","Object")
-		obj_new.obj_type = obj_cfg.get_value("general","type","static")
+	obj_new.obj_frame = frame
+	if from_viewport:
+		obj_new.set_position(gviewport.get_position()+pos)
+	else:
+		obj_new.set_position(Vector2(scroll.get_h_scroll(),scroll.get_v_scroll())+pos)
+	if config.load(item_location+"/config.ini") == OK:
+		obj_new.obj_name = config.get_value("general","title","Object")
+		obj_new.obj_type = config.get_value("general","type","static")
 
 	if dir.file_exists("res://object_types/"+obj_new.obj_type+"/config.json"):
-		var jfile = File.new()
-		jfile.open("res://object_types/"+obj_new.obj_type+"/config.json", jfile.READ)
-		var jtext = jfile.get_as_text()
-		jfile.close()
+		file.open("res://object_types/"+obj_new.obj_type+"/config.json", file.READ)
+		var jtext = file.get_as_text()
+		file.close()
 		obj_new.init_prop(parse_json(jtext))
 	
 	if dir.open(item_location+"/frames/") == OK:
@@ -170,10 +175,9 @@ func _on_editor_unselect_button_down():
 
 func _on_save_project_button_down():
 	var output = {}
-	var saveproject = File.new()
 	if not dir.dir_exists("user://"+global.project):
 		dir.make_dir("user://"+global.project)
-	saveproject.open("user://"+global.project+"/scn_"+global.scene+".json", File.WRITE)
+	file.open("user://"+global.project+"/scn_"+global.scene+".json", File.WRITE)
 	
 	for i in objs.get_children():
 		var props = {}
@@ -192,7 +196,8 @@ func _on_save_project_button_down():
 			"frame":i.obj_frame,
 			"prop":props
 		}
-	saveproject.store_line(to_json(output))
+	file.store_line(to_json(output))
+	file.close()
 	get_tree().change_scene("res://runner.tscn")
 
 func _on_duplicate_object_button_down():
@@ -298,3 +303,14 @@ func _on_created_on_start_toggled(state):
 func _on_obj_list_item_selected(index):
 	# TODO different approach
 	objs.get_node("obj_"+str(index+1)).selected()
+	
+func read_project():
+	file.open("user://"+global.project+"/scn_"+global.scene+".json", File.READ)
+	var project = parse_json(file.get_as_text())
+	file.close()
+	for item in project:
+		item_location = project[item]['loc']
+		_on_insert_into_scene_button_down(Vector2(project[item]['pos_x'],project[item]['pos_y']),project[item]['frame'],true)
+
+func _on_btn_projects_button_down():
+	get_tree().change_scene("res://projects.tscn")

@@ -20,6 +20,7 @@ func _ready():
 				obj.get_node("sprites").set_sprite_frames(sprite_frames)
 				var c_frame = ImageTexture.new()
 				c_frame.load(project[item]['loc']+"/frames/default/frame_1.png") # TODO should it be frame specific ?
+				obj.size = c_frame
 				var c_size = c_frame.get_size() / 2
 				var shape = obj.get_node("collision").get_shape().duplicate(true)
 				obj.get_node("collision").set_shape(shape)
@@ -40,7 +41,8 @@ func _ready():
 			
 			obj.gg_set_animation(project[item]['anim'])
 			obj.gg_set_frame(project[item]['frame'])
-			obj.set_position(Vector2(project[item]['pos_x'],project[item]['pos_y']))
+
+			obj.set_position(Vector2(project[item]['pos_x'],project[item]['pos_y'])+Vector2(32,32)) # TODO find a better way for offset
 				
 			add_child(obj)
 

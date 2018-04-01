@@ -1,7 +1,6 @@
-# WIP - not usable yet
-
 extends StaticBody2D
 
+var size = Vector2(0,0)
 
 func _ready():
 	pass
