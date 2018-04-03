@@ -26,7 +26,7 @@ func _ready():
 	obj_id = "obj_"+id
 	obj_name += " "+id
 	set_name(obj_id)
-	
+
 	update_anim()
 	
 	if obj_group == "" or not obj_is_group:

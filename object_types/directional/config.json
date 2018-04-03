@@ -1,0 +1,20 @@
+{
+    "speed":{
+        "type":"number",
+        "title":"Speed",
+        "min":1,
+        "max":100,
+        "value":2
+    },
+    "initial_direction":{
+        "type":"options",
+        "title":"Initial direction",
+        "options":["Top","Top Left","Top Right","Bottom","Bottom Left","Bottom Right","Left","Right"],
+        "value":"Top"
+    },
+    "move_on_start":{
+        "type":"toggle",
+        "title":"Move on start",
+        "value":true
+    },
+}

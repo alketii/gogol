@@ -1,9 +1,0 @@
-{
-    "speed":{
-        "type":"number",
-        "title":"Speed",
-        "min":0,
-        "max":100,
-        "value":8
-    },
-}

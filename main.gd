@@ -1,5 +1,7 @@
 extends Node2D
 
+var project
+
 onready var window_size = OS.get_screen_size()
 
 onready var scroll = $TabContainer/Editor/ScrollContainer
@@ -15,6 +17,8 @@ onready var apply = $toolbox/VBoxContainer/apply
 #props
 onready var prop_label = preload("res://object_props/Label.tscn")
 onready var prop_spinbox = preload("res://object_props/SpinBox.tscn")
+onready var prop_checkbutton = preload("res://object_props/CheckButton.tscn")
+onready var prop_optionbutton = preload("res://object_props/OptionButton.tscn")
 
 const obj = preload("res://obj.tscn")
 const item = preload("res://item.tscn")
@@ -45,6 +49,7 @@ func _input(event):
 		$position.set_text(str(pos.x-gviewport.get_position().x)+","+str(pos.y-gviewport.get_position().y))
 
 func selection_clear():
+	#_on_apply_button_down()
 	for i in objs.get_children():
 		i.unselect()
 	redraw_toolbox(false)
@@ -53,6 +58,7 @@ func selection_obj():
 	var sobj = objs.get_node(obj_selected)
 	redraw_toolbox(true)
 	var new_prop
+
 	for prop in sobj.custom_prop:
 		var cprop = sobj.custom_prop[prop]
 		if cprop['type'] == 'number':
@@ -62,6 +68,21 @@ func selection_obj():
 			new_prop.set_value(int(cprop['value']))
 			new_prop.set_min(int(cprop['min']))
 			new_prop.set_max(int(cprop['max']))
+		
+		elif cprop['type'] == 'toggle':
+			new_prop = prop_checkbutton.instance()
+			new_prop.set_name("prop_"+prop)
+			new_prop.set_text(cprop['title'])
+			if cprop['value'] == true:
+				new_prop.set_pressed(true)
+		
+		elif cprop['type'] == 'options':
+			new_prop = prop_optionbutton.instance()
+			new_prop.set_name("prop_"+prop)
+			for opt in cprop['options']:
+				new_prop.add_item(opt)
+			new_prop.set_text(cprop['value'])
+			
 		toolbox.add_child(new_prop)
 	
 	if sobj.custom_prop.size() == 0:
@@ -84,7 +105,7 @@ func redraw_toolbox(is_obj):
 		elif i.is_in_group("general"):
 			i.set_visible(!is_obj)
 		elif i.is_in_group("prop_custom"):
-			i.queue_free()
+			i.free()
 		
 func _enter_tree():
     get_tree().get_root().connect("size_changed", self, "window_resized")
@@ -118,23 +139,28 @@ func list_categories():
 func _on_add_object_button_down():
 	$pop_add_object/WindowDialog.popup()
 
-func _on_insert_into_scene_button_down(pos=Vector2(32,32),animation="default",frame=1,from_viewport=false,group="",is_group=false):
+func _on_insert_into_scene_button_down(pos=Vector2(32,32),animation="default",frame=1,inserted=false,group="",is_group=false,custom_props={}):
+	# TODO refactor everything
 	var obj_new = obj.instance()
 	obj_new.location = item_location
 
-	if from_viewport:
+	if inserted:
 		obj_new.set_position(gviewport.get_position()+pos)
 	else:
 		obj_new.set_position(Vector2(scroll.get_h_scroll(),scroll.get_v_scroll())+pos)
+		
 	if config.load(item_location+"/config.ini") == OK:
 		obj_new.obj_name = config.get_value("general","title","Object")
 		obj_new.obj_type = config.get_value("general","type","static")
 
 	if dir.file_exists("res://object_types/"+obj_new.obj_type+"/config.json"):
 		file.open("res://object_types/"+obj_new.obj_type+"/config.json", file.READ)
-		var jtext = file.get_as_text()
+		var jtext = parse_json(file.get_as_text())
 		file.close()
-		obj_new.init_prop(parse_json(jtext))
+		if inserted:
+			for prop in custom_props:
+				jtext[prop]["value"] = custom_props[prop]
+		obj_new.init_prop(jtext)
 	
 	if dir.open(item_location+"/frames/") == OK:
 		dir.list_dir_begin()
@@ -181,6 +207,7 @@ func _on_editor_unselect_button_down():
 
 
 func _on_save_project_button_down():
+	#_on_apply_button_down()
 	var output = {}
 	if not dir.dir_exists("user://"+global.project):
 		dir.make_dir("user://"+global.project)
@@ -242,6 +269,7 @@ func _on_duplicate_button_down():
 				d_obj_new.location = d_obj.location
 				d_obj_new.obj_anim = d_obj.obj_anim
 				d_obj_new.obj_frame = d_obj.obj_frame
+				d_obj_new.custom_prop = d_obj.custom_prop
 				d_obj_new.set_position(d_obj.get_position()+(d_obj.get_size()+spacing)*Vector2(x-1,y-1))
 				objs.add_child(d_obj_new)
 				
@@ -270,17 +298,23 @@ func _on_remove_object_button_down():
 	$confirm_remove/confirm_remove.popup()
 
 func _on_confirm_remove_confirmed():
-	objs.get_node(obj_selected).queue_free()
+	objs.get_node(obj_selected).free()
 	selection_clear()
 
 func _on_apply_button_down():
-	objs.get_node(obj_selected).obj_name = toolbox.get_node("obj_name").get_text()
+	#objs.get_node(obj_selected).obj_name = toolbox.get_node("obj_name").get_text()
 	for i in toolbox.get_children():
 		if i.is_in_group("prop_custom"):
 			var prop = i.get_name().right(5)
-			print(prop)
-			objs.get_node(obj_selected).custom_prop[prop]['value'] = i.get_value()
+			var value = 0
+			if i is CheckButton:
+				value = i.is_pressed()
+			elif i is OptionButton:
+				value = i.get_text()
+			else:
+				value = i.get_value()
 
+			objs.get_node(obj_selected).custom_prop[prop]['value'] = value
 
 func _on_obj_anim_item_selected(index):
 	var anim = toolbox.get_node("obj_anim").get_item_text(index)
@@ -316,7 +350,7 @@ func _on_obj_list_item_selected(index):
 	
 func read_project():
 	file.open("user://"+global.project+"/scn_"+global.scene+".json", File.READ)
-	var project = parse_json(file.get_as_text())
+	project = parse_json(file.get_as_text())
 	file.close()
 	for item in project:
 		var is_group = false
@@ -326,7 +360,7 @@ func read_project():
 			else:
 				is_group = true
 		item_location = project[item]['loc']
-		_on_insert_into_scene_button_down(Vector2(project[item]['pos_x'],project[item]['pos_y']),project[item]['anim'],project[item]['frame'],true,project[item]['group'],is_group)
+		_on_insert_into_scene_button_down(Vector2(project[item]['pos_x'],project[item]['pos_y']),project[item]['anim'],project[item]['frame'],true,project[item]['group'],is_group,project[item]['prop'])
 	
 	selection_clear()
 
