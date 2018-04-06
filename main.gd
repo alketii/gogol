@@ -170,6 +170,7 @@ func _on_insert_into_scene_button_down(pos=Vector2(32,32),animation="default",fr
 				obj_new.anims.append(file_name)
 			file_name = dir.get_next()
 	
+	obj_new.insert_into_list = !is_group
 	obj_new.obj_is_group = is_group
 	obj_new.obj_group = group
 	obj_new.obj_frame = frame
@@ -346,14 +347,16 @@ func _on_created_on_start_toggled(state):
 
 func _on_obj_list_item_selected(index):
 	# TODO different approach
-	objs.get_node("obj_"+str(index+1)).selected()
+	objs.get_node(obj_unique_list[index]).selected()
 	
 func read_project():
 	file.open("user://"+global.project+"/scn_"+global.scene+".json", File.READ)
 	project = parse_json(file.get_as_text())
 	file.close()
+	var unique = false
 	for item in project:
 		var is_group = false
+
 		if project[item]['group'] != "":
 			if groups.find(project[item]['group']) == -1:
 				groups.append(project[item]['group'])

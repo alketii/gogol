@@ -10,6 +10,8 @@ var obj_group = ""
 var obj_anim = "default"
 var obj_frame = 1
 
+var insert_into_list = false
+
 var dragging = false
 var selected = false
 
@@ -29,10 +31,10 @@ func _ready():
 
 	update_anim()
 	
-	if obj_group == "" or not obj_is_group:
+	if insert_into_list:
 		icon.load(location+"/icon_24.png")
 		main.get_node("obj_list").add_item(obj_name,icon)
-		
+		main.obj_unique_list.append(obj_id)
 	set_process(true)
 
 func init_prop(json):
