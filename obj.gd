@@ -11,6 +11,7 @@ var obj_anim = "default"
 var obj_frame = 1
 
 var insert_into_list = false
+var inserted = false
 
 var dragging = false
 var selected = false
@@ -24,10 +25,13 @@ var anims = ['default']
 var created_on_start = true
 
 func _ready():
-	var id = str(main.objs.get_child_count()) # TODO repleace by proper ID
-	obj_id = "obj_"+id
-	obj_name += " "+id
-	set_name(obj_id)
+	if not inserted:
+		var id = str(main.objs.get_child_count()) # TODO repleace by proper ID
+		obj_id = "obj_"+id
+		obj_name += " "+id
+		set_name(obj_id)
+	else:
+		obj_id = get_name()
 
 	update_anim()
 	
@@ -41,6 +45,7 @@ func init_prop(json):
 	custom_prop = json
 
 func _on_obj_button_down():
+	print(obj_id)
 	pos = main.pos - get_position()
 	dragging = true
 	if not selected:

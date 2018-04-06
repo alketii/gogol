@@ -3,6 +3,7 @@ extends Node2D
 # TODO make runner "modular"
 
 var project = {}
+var obj_unique = []
 var groups = []
 
 func _ready():
@@ -38,16 +39,18 @@ func _ready():
 						obj.get_node("sprites").get_sprite_frames().add_frame(anim,sprite)
 				
 				if project[item]['group'] != "":
+					obj_unique.append(item)
 					groups.append(project[item]['group'])
-					obj.set_name(project[item]['group'])
 
 			else:
-				obj = get_node(project[item]['group']).duplicate()
-				obj.gg_offset = get_node(project[item]['group']).gg_offset
+				var obj_uniq = obj_unique[groups.find(project[item]['group'])]
+				obj = get_node(obj_uniq).duplicate()
+				obj.gg_offset = get_node(obj_uniq).gg_offset
 				
 			obj.gg_prop = project[item]['prop']
 			obj.gg_set_animation(project[item]['anim'])
 			obj.gg_set_frame(project[item]['frame'])
+			obj.set_name(item)
 			
 			obj.set_position(Vector2(project[item]['pos_x'],project[item]['pos_y'])+$viewport.get_position()) # TODO find a better way for offset
 				

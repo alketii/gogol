@@ -8,7 +8,6 @@ var speed = 2
 var move_x = 0
 var move_y = 0
 
-
 func _ready():
 	set_position(get_position()+gg_offset)
 
@@ -50,4 +49,5 @@ func _process(delta):
 		move_and_collide(Vector2(move_x,move_y))
 
 func _on_area_area_entered(area):
+	#print(area.get_parent().get_name())
 	pass

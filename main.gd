@@ -139,13 +139,15 @@ func list_categories():
 func _on_add_object_button_down():
 	$pop_add_object/WindowDialog.popup()
 
-func _on_insert_into_scene_button_down(pos=Vector2(32,32),animation="default",frame=1,inserted=false,group="",is_group=false,custom_props={}):
+func _on_insert_into_scene_button_down(pos=Vector2(32,32),animation="default",frame=1,inserted=false,group="",is_group=false,custom_props={},obj_name=""):
 	# TODO refactor everything
 	var obj_new = obj.instance()
 	obj_new.location = item_location
 
 	if inserted:
 		obj_new.set_position(gviewport.get_position()+pos)
+		obj_new.inserted = true
+		obj_new.set_name(obj_name)
 	else:
 		obj_new.set_position(Vector2(scroll.get_h_scroll(),scroll.get_v_scroll())+pos)
 		
@@ -363,7 +365,7 @@ func read_project():
 			else:
 				is_group = true
 		item_location = project[item]['loc']
-		_on_insert_into_scene_button_down(Vector2(project[item]['pos_x'],project[item]['pos_y']),project[item]['anim'],project[item]['frame'],true,project[item]['group'],is_group,project[item]['prop'])
+		_on_insert_into_scene_button_down(Vector2(project[item]['pos_x'],project[item]['pos_y']),project[item]['anim'],project[item]['frame'],true,project[item]['group'],is_group,project[item]['prop'],item)
 	
 	selection_clear()
 
