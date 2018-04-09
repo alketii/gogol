@@ -28,6 +28,10 @@ debug_collisions=true
 window/size/width=1280
 window/size/height=720
 
+[gui]
+
+theme/custom="res://arc_light/arc_light.tres"
+
 [rendering]
 
 environment/default_clear_color=Color( 0, 0, 0, 1 )

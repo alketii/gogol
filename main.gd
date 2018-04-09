@@ -371,3 +371,7 @@ func read_project():
 
 func _on_btn_projects_button_down():
 	get_tree().change_scene("res://projects.tscn")
+
+
+func _on_new_event_button_down():
+	$new_event_first/WindowDialog.popup()
