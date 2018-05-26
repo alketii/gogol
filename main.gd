@@ -14,6 +14,8 @@ onready var gviewport = cnt.get_node("viewport")
 onready var dup_cnt = $duplicate_object/WindowDialog/VBoxContainer
 onready var apply = $toolbox/VBoxContainer/apply
 
+onready var newevent = $new_event_first/WindowDialog
+
 #props
 onready var prop_label = preload("res://object_props/Label.tscn")
 onready var prop_spinbox = preload("res://object_props/SpinBox.tscn")
@@ -35,12 +37,22 @@ var dir = Directory.new()
 var file = File.new()
 var config = ConfigFile.new()
 
+var special_cond = ['Scene','Timer','Mouse & Keyboard']
+var object_cond = ['Collides','Enters viewport','Leaves viewport','Compare X position','Compare Y position']
+
 func _ready():
 	#get_tree().change_scene("res://runner.tscn")
 	OS.set_window_size(Vector2(1280,720))
 	#OS.set_window_maximized(true)
 	list_categories()
 	window_resized()
+	
+	# TMP START
+	for cond in special_cond:
+		newevent.get_node("list_1").add_item(cond)
+
+	# TMP END
+	
 	set_process_input(true)
 
 func _input(event):
@@ -374,4 +386,15 @@ func _on_btn_projects_button_down():
 
 
 func _on_new_event_button_down():
+
 	$new_event_first/WindowDialog.popup()
+
+
+func _on_list_1_item_selected(index):
+	newevent.get_node("list_2").clear()
+	var conds = []
+	if index >= special_cond.size():
+		conds = object_cond
+	
+	for cond in conds:
+		newevent.get_node("list_2").add_item(cond)

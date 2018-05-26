@@ -38,6 +38,8 @@ func _ready():
 	if insert_into_list:
 		icon.load(location+"/icon_24.png")
 		main.get_node("obj_list").add_item(obj_name,icon)
+		main.newevent.get_node("list_1").add_item(obj_name,icon)
+		main.newevent.get_node("list_3").add_item(obj_name,icon)
 		main.obj_unique_list.append(obj_id)
 	set_process(true)
 

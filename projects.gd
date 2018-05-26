@@ -14,6 +14,7 @@ func _ready():
 				$projects_list.add_item(file_name)
 			file_name = dir.get_next()
 		_on_projects_list_item_selected(0)
+		#get_tree().change_scene("res://main.tscn")
 
 
 func _on_projects_list_item_selected(index):
